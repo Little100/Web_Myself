@@ -47,12 +47,12 @@ var config = {
     * ["技能点", 掌握程度, "技能条颜色"]
     */  
     skills: [
-        ["Java", 0, "red"],
-        ["GoLang", 0, "blue"],
-        ["SQL", 0, "#1abc9c"],
-        ["HTML5", 0, "rgba(0,0,0)"],
-        ["CSS3", 0, "yellow"],
-        ["JavaScript", 0, "pink"]
+        ["Java", 100, "red"],
+        ["GoLang", 100, "blue"],
+        ["SQL", 100, "#1abc9c"],
+        ["HTML5", 100, "rgba(0,0,0)"],
+        ["CSS3", 100, "yellow"],
+        ["JavaScript", 100, "pink"]
     ],
 
 
