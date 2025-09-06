@@ -95,6 +95,7 @@ const app = createApp({
       script.setAttribute('data-repo', 'Little100/Web_Myself');
       script.setAttribute('data-repo-id', 'R_kgDOMf63qQ');
       script.setAttribute('data-category', 'General');
+      script.setAttribute('data-category-id', 'DIC_kwDOPq-ETc4CvDrJ');
       script.setAttribute('data-mapping', 'pathname');
       script.setAttribute('data-strict', '0');
       script.setAttribute('data-reactions-enabled', '1');
