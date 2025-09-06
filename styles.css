@@ -1640,3 +1640,13 @@ body.dark::before {
     background-position: 0% 50%;
   }
 }
+
+.comments-section {
+  padding: 80px 0;
+  background: var(--surface-color);
+  transition: all 0.3s ease;
+}
+
+.giscus-container {
+  margin-top: 50px;
+}

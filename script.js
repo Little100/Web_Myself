@@ -78,8 +78,35 @@ const app = createApp({
     this.updateDisplayProjects()
     this.isLoading = false
     window.closeModal = this.closeModal.bind(this)
+    this.loadGiscus()
   },
   methods: {
+    loadGiscus() {
+      const giscusContainer = document.querySelector('.giscus-container');
+      if (!giscusContainer) return;
+
+      while (giscusContainer.firstChild) {
+        giscusContainer.removeChild(giscusContainer.firstChild);
+      }
+
+      const script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.setAttribute('data-repo', 'Little100/Web_Myself');
+      script.setAttribute('data-repo-id', 'R_kgDOMf63qQ');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOMf63qc4Chd2k');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '0');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'bottom');
+      script.setAttribute('data-theme', this.isDark ? 'dark' : 'light');
+      script.setAttribute('data-lang', 'zh-CN');
+      script.crossOrigin = 'anonymous';
+      script.async = true;
+
+      giscusContainer.appendChild(script);
+    },
     formatLargeNumber(num) {
       if (num >= 100000000) return `${(num / 100000000).toFixed(2)}亿`
       if (num >= 10000) return `${(num / 10000).toFixed(2)}万`
@@ -592,6 +619,7 @@ const app = createApp({
       this.isDark = !this.isDark
       this.applyTheme()
       localStorage.setItem("theme", this.isDark ? "dark" : "light")
+      this.loadGiscus()
     },
 
     applyTheme() {
