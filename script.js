@@ -18,6 +18,7 @@ const app = createApp({
             { name: "介绍", id: "intro", icon: "👤" },
             { name: "项目", id: "projects", icon: "💼" },
             { name: "视频", id: "videos", icon: "📹" },
+            { name: "评论", id: "comments", icon: "💬" },
             { name: "关于", id: "about", icon: "📧" },
           ],
         },
@@ -93,8 +94,6 @@ const app = createApp({
       script.src = 'https://giscus.app/client.js';
       script.setAttribute('data-repo', 'Little100/Web_Myself');
       script.setAttribute('data-repo-id', 'R_kgDOMf63qQ');
-      script.setAttribute('data-category', 'Announcements');
-      script.setAttribute('data-category-id', 'DIC_kwDOMf63qc4Chd2k');
       script.setAttribute('data-mapping', 'pathname');
       script.setAttribute('data-strict', '0');
       script.setAttribute('data-reactions-enabled', '1');
