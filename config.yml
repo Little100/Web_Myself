@@ -1,0 +1,33 @@
+plugins:
+  # 在这里添加不希望加载的插件的文件夹名
+  blacklist:
+  - "example_plugin_to_disable"
+  # - "bilibili_fetcher" # 比如这样 代表不加载Bilibili Fetcher插件
+  # Bilibili Fetcher 插件的特定配置
+  bilibili_fetcher:
+    uid: "1492647738" # 在这里替换成你要获取的B站用户的UID
+
+# 输出设置
+output:
+  directory: "Excel" # Excel文件输出目录
+
+# Web服务器配置
+server:
+  port: 100 # Web服务的端口号
+  refresh_interval: "1d" # 数据刷新间隔 (s:秒, m:分钟, h:小时, d:天, y:年)
+
+web:
+  title: "视频数据分析报告"
+  video_name_label: "视频名称"
+  video_link_label: "视频链接"
+  video_duration_label: "视频时长"
+  video_publish_time_label: "发布时间"
+  video_view_count_label: "观看次数"
+  video_like_count_label: "点赞数"
+  video_danmaku_count_label: "弹幕数"
+  video_comment_count_label: "评论数"
+  video_description_label: "视频简介"
+  video_fan_growth_label: "预估涨粉"
+
+github:
+  username: Little100

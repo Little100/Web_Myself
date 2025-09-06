@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little_100 - 个人介绍</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="github_data.js"></script>
+    <script src="bilibili_data.js"></script>
+</head>
+<body>
+    <div id="app">
+        <div v-if="isLoading" class="loading-overlay" :class="{ 'dark': isDark }">
+            <div class="loading-content">
+                <div class="loading-spinner"></div>
+                <p>正在从 GitHub 加载数据...</p>
+            </div>
+        </div>
+
+        <div v-if="loadingError && !isLoading" class="error-overlay" :class="{ 'dark': isDark }">
+            <div class="error-content">
+                <i class="fas fa-exclamation-triangle"></i>
+                <h3>数据加载失败</h3>
+                <p>{{ loadingError }}</p>
+                <p>将使用默认数据继续显示</p>
+                <button @click="loadingError = null" class="retry-btn">继续浏览</button>
+            </div>
+        </div>
+
+        <nav class="navbar" :class="{ 'dark': isDark }">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <span class="logo-text">Little_100</span>
+                </div>
+                <div class="nav-links">
+                    <a v-for="item in config.navigation.items" 
+                       :key="item.id"
+                       :href="`#${item.id}`"
+                       class="nav-link"
+                       @click="scrollToSection(item.id)">
+                        <span class="nav-icon">{{ item.icon }}</span>
+                        {{ item.name }}
+                    </a>
+                    <a :href="config.personal.github" target="_blank" class="nav-link github-link">
+                        <i class="fab fa-github"></i>
+                        GitHub
+                    </a>
+                </div>
+                <button class="theme-toggle" @click="toggleTheme">
+                    <i :class="isDark ? 'fas fa-sun' : 'fas fa-moon'"></i>
+                </button>
+            </div>
+        </nav>
+
+        <section id="intro" class="intro-section" :class="{ 'dark': isDark }">
+            <div class="container">
+                <div class="intro-content">
+                    <div class="avatar-container">
+                        <img :src="config.personal.avatar" :alt="config.personal.name" class="avatar">
+                    </div>
+                    <h1 class="name">{{ config.personal.name }}</h1>
+                    <p class="signature">{{ config.personal.signature }}</p>
+                    
+                    <div class="cards-container">
+                        <div class="card intro-card">
+                            <h3>关于我</h3>
+                            <p>{{ config.personal.bio }}</p>
+                            <div class="location">
+                                <i class="fas fa-map-marker-alt"></i>
+                                {{ config.personal.location }}
+                            </div>
+                        </div>
+                        
+                        <div class="card languages-card">
+                            <h3>语言使用占比</h3>
+                            <div v-if="Object.keys(githubLanguages).length > 0" class="languages-chart">
+                                <div v-for="(percentage, language) in githubLanguages" 
+                                     :key="language" 
+                                     class="language-item">
+                                    <div class="language-info">
+                                        <span class="language-name">{{ language }}</span>
+                                        <span class="language-percentage">{{ percentage }}%</span>
+                                    </div>
+                                    <div class="language-bar">
+                                        <div class="language-progress" 
+                                             :style="{ width: percentage + '%', backgroundColor: getLanguageColor(language) }">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div v-else class="loading-languages">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <span>正在分析语言使用情况...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="starmap" class="starmap-section" :class="{ 'dark': isDark }">
+            <div class="container">
+                <h2 class="section-title">技能星图</h2>
+                <div class="starmap-container">
+                    <svg class="starmap"
+                         :viewBox="`${starMapViewBox.x} ${starMapViewBox.y} ${starMapViewBox.width} ${starMapViewBox.height}`"
+                         @wheel.prevent="handleWheel"
+                         @mousedown="handleMouseDown"
+                         @mousemove.prevent="handleMouseMove"
+                         @mouseup="handleMouseUp"
+                         @mouseleave="handleMouseLeave"
+                         style="cursor: grab; user-select: none;">
+                        <defs>
+                            <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+                                <stop offset="0%" style="stop-color:currentColor;stop-opacity:0.8" />
+                                <stop offset="100%" style="stop-color:currentColor;stop-opacity:0.2" />
+                            </radialGradient>
+                        </defs>
+                        
+                        <g class="links-group">
+                            <path v-for="link in starMap.links"
+                                  :key="`${link.source}-${link.target}`"
+                                  :d="generateCurvedPath(link)"
+                                  class="connection-line"
+                                  fill="none">
+                            </path>
+                        </g>
+
+                        <g class="nodes-group">
+                            <g v-for="node in starMap.nodes" :key="node.id" class="node-group">
+                                <circle v-if="node.type === 'center'"
+                                        :cx="node.x"
+                                        :cy="node.y"
+                                        :r="12"
+                                        :class="node.class + '-glow'"
+                                        fill="url(#centerGlow)"
+                                        opacity="0.3">
+                                </circle>
+                                
+                                <circle :cx="node.x"
+                                        :cy="node.y"
+                                        :r="node.type === 'center' ? 8 : (node.type === 'language' || node.type === 'collection' ? 6 : 5)"
+                                        :class="node.class"
+                                        class="project-star"
+                                        @mouseenter="showNodeInfo(node)"
+                                        @mouseleave="hideNodeInfo()"
+                                        @click="openNodeUrl(node)">
+                                </circle>
+                                <text v-if="node.label"
+                                      :x="node.x"
+                                      :y="node.y - (node.type === 'center' ? 15 : 12)"
+                                      class="star-label"
+                                      text-anchor="middle">
+                                    {{ node.label }}
+                                </text>
+                                <text v-if="node.subLabel"
+                                      :x="node.x"
+                                      :y="node.y + (node.type === 'center' ? 25 : 20)"
+                                      class="star-sublabel"
+                                      text-anchor="middle">
+                                    {{ node.subLabel }}
+                                </text>
+                            </g>
+                        </g>
+                    </svg>
+
+                    <div v-if="hoveredNode"
+                         class="project-tooltip"
+                         :class="{ 'video-tooltip': hoveredNode.type === 'video' }"
+                         :style="{ left: mouseX + 'px', top: mouseY + 'px' }">
+                        <template v-if="hoveredNode.type === 'project'">
+                            <h4>{{ hoveredNode.data.name }}</h4>
+                            <p>{{ hoveredNode.data.description || "一个很棒的项目！" }}</p>
+                            <div class="tooltip-meta">
+                                <span class="project-language">{{ hoveredNode.data.language || 'Unknown' }}</span>
+                                <span v-if="hoveredNode.data.stars !== undefined" class="project-stars">
+                                    <i class="fas fa-star"></i> {{ hoveredNode.data.stars }}
+                                </span>
+                            </div>
+                        </template>
+                        <template v-if="hoveredNode.type === 'video'">
+                             <h4>{{ hoveredNode.data.title }}</h4>
+                             <div class="tooltip-meta">
+                                 <span class="project-stars">
+                                     <i class="fas fa-play"></i> {{ formatLargeNumber(hoveredNode.data.view_count) }}
+                                 </span>
+                             </div>
+                        </template>
+                        <template v-if="['language', 'collection', 'info'].includes(hoveredNode.type)">
+                            <h4>{{ hoveredNode.label }}</h4>
+                            <p v-if="hoveredNode.details">{{ hoveredNode.details }}</p>
+                            <p v-else-if="hoveredNode.subLabel">{{ hoveredNode.subLabel }}</p>
+                        </template>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="projects-section" :class="{ 'dark': isDark }">
+            <div class="container">
+                <h2 class="section-title">精选项目</h2>
+                <div v-if="githubProjects.length > 0" class="projects-grid">
+                    <div v-for="(project, index) in displayProjects" 
+                         :key="project.name" 
+                         class="project-card"
+                         @click="openProjectUrl(project.url)">
+                        <div class="project-header">
+                            <h3>{{ project.name }}</h3>
+                        </div>
+                        <h4 v-if="project.fullName" class="project-fullname">{{ project.fullName }}</h4>
+                        <p class="project-description">{{ project.description }}</p>
+                        <div class="project-footer">
+                             <span class="project-status" :class="getStatusClass(getProjectStatus(project))">
+                                {{ getProjectStatus(project) }}
+                            </span>
+                            <div class="project-stats">
+                                <span class="stars">
+                                    <i class="fas fa-star"></i>
+                                    {{ project.stars }}
+                                </span>
+                                <span v-if="project.forks" class="forks">
+                                    <i class="fas fa-code-branch"></i>
+                                    {{ project.forks }}
+                                </span>
+                                 <span class="language" :class="(project.language && typeof project.language === 'string') ? project.language.toLowerCase() : 'unknown'">
+                                    {{ project.language || 'Unknown' }}
+                                </span>
+                            </div>
+                            <span v-if="project.topics && project.topics.length > 0" class="project-topics">
+                                <span v-for="topic in project.topics.slice(0, 3)" :key="topic" class="topic-tag">
+                                    {{ topic }}
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card more-card" @click="showAllProjects">
+                        <div class="more-content">
+                            <i class="fas fa-plus"></i>
+                            <h3>更多项目</h3>
+                            <p>查看所有 {{ githubProjects.length }} 个项目</p>
+                        </div>
+                    </div>
+                </div>
+                <div v-else class="loading-projects">
+                    <i class="fas fa-spinner fa-spin"></i>
+                    <span>正在加载项目数据...</span>
+                </div>
+            </div>
+        </section>
+        
+        <section id="videos" class="bilibili-section" :class="{ 'dark': isDark }">
+            <div class="container">
+                <h2 class="section-title">Bilibili 数据分析</h2>
+                <div id="danmaku-container"></div>
+                <div class="dashboard-container">
+                    <header class="dashboard-header">
+                        <div class="header-content">
+                            <div class="header-text">
+                                <h1>频道数据看板(尸检面板pwq)</h1>
+                                <p>实时监控我的内容表现(每天刷新一次)</p>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span class="stat-title">粉丝数</span>
+                                <div class="stat-logo">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" /><circle cx="9" cy="7" r="4" /><path d="M22 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75" /></svg>
+                                </div>
+                            </div>
+                            <div class="stat-content">
+                                <div class="stat-value" id="bili-total-fans">...</div>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span class="stat-title">总播放量</span>
+                                <div class="stat-logo">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3" /></svg>
+                                </div>
+                            </div>
+                            <div class="stat-content">
+                                <div class="stat-value" id="bili-total-views">...</div>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span class="stat-title">总点赞量</span>
+                                <div class="stat-logo">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3" /></svg>
+                                </div>
+                            </div>
+                            <div class="stat-content">
+                                <div class="stat-value" id="bili-total-likes">...</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="charts-grid">
+                        <div class="chart-card">
+                            <div class="chart-container">
+                                <canvas id="trendChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card">
+                            <div class="chart-container">
+                                <canvas id="followerChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video-performance-section">
+                        <h2>视频表现分析</h2>
+                        <div id="video-performance-list"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section" :class="{ 'dark': isDark }">
+            <div class="container">
+                <h2 class="section-title">联系方式</h2>
+                <div class="contact-content">
+                    <p>如果您对我的项目感兴趣，或者有任何合作意向，欢迎通过以下方式联系我：</p>
+                    <div class="contact-links">
+                        <a :href="config.personal.github" target="_blank" class="contact-link">
+                            <i class="fab fa-github"></i>
+                            <span>GitHub</span>
+                        </a>
+                        <a href="https://space.bilibili.com/1492647738" target="_blank" class="contact-link bilibili">
+                            <i class="fab fa-bilibili"></i>
+                            <span>Bilibili</span>
+                        </a>
+                        <a href="https://www.minebbs.com/search/16611925/?c[users]=Little_100&o=date" target="_blank" class="contact-link minebbs">
+                            <i class="fas fa-search"></i>
+                            <span>Minebbs</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="chartModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">图表详情</h3>
+                <button class="modal-close" onclick="closeModal()">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18" />
+                        <line x1="6" y1="6" x2="18" y2="18" />
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <canvas id="modalChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

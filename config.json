@@ -1,0 +1,53 @@
+{
+  "personal": {
+    "name": "Little_100",
+    "signature": "I Love You",
+    "avatar": "https://avatars.githubusercontent.com/u/134726985?v=4",
+    "github": "https://github.com/Little100",
+    "githubUsername": "Little100",
+    "location": "Earth China",
+    "bio": "Hello~在这呢，我是Little_100，现在是高中生，有什么我可以帮您的嘛？我可是一位较为老的我的世界玩家uwu，你可以联系我的QQ: 2662308929或者加入群聊1032430138~关于插件，目前正在开发[无尽贪婪],[压缩木剑],[匠魂2],[超级农事],[暮色森林]尽情期待~qwp"
+  },
+  "navigation": {
+    "items": [
+      { "name": "介绍", "id": "intro", "icon": "👤" },
+      { "name": "项目", "id": "projects", "icon": "💼" },
+      { "name": "视频", "id": "videos", "icon": "📹" },
+      { "name": "关于", "id": "about", "icon": "📧" }
+    ]
+  },
+  "starMap": {
+    "github": {
+      "center": { "x": 200, "y": 150 }
+    },
+    "personal": {
+      "center": { "x": 500, "y": 150 },
+      "birthDate": "配置中..."
+    },
+    "bilibili": {
+      "center": { "x": 800, "y": 150 },
+      "videos": []
+    }
+  },
+  "theme": {
+    "default": "light",
+    "colors": {
+      "light": {
+        "primary": "#3b82f6",
+        "secondary": "#64748b",
+        "background": "#ffffff",
+        "surface": "#f8fafc",
+        "text": "#1e293b",
+        "textSecondary": "#64748b"
+      },
+      "dark": {
+        "primary": "#60a5fa",
+        "secondary": "#94a3b8",
+        "background": "#0f172a",
+        "surface": "#1e293b",
+        "text": "#f1f5f9",
+        "textSecondary": "#94a3b8"
+      }
+    }
+  }
+}
