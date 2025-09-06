@@ -93,7 +93,7 @@ const app = createApp({
       const script = document.createElement('script');
       script.src = 'https://giscus.app/client.js';
       script.setAttribute('data-repo', 'Little100/Web_Myself');
-      script.setAttribute('data-repo-id', 'R_kgDOMf63qQ');
+      script.setAttribute('data-repo-id', 'R_kgDOPq-ETQ');
       script.setAttribute('data-category', 'General');
       script.setAttribute('data-category-id', 'DIC_kwDOPq-ETc4CvDrJ');
       script.setAttribute('data-mapping', 'pathname');
