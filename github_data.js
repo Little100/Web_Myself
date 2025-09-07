@@ -1,6 +1,36 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-09-07T00:57:21Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 9,
+      "forks": 1,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-09-06T13:45:25Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -10,18 +40,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
       "updatedAt": "2025-09-06T01:41:30Z",
       "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 8,
-      "forks": 0,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-06T01:20:51Z",
-      "createdAt": "2025-07-27T11:20:55Z",
       "topics": []
     },
     {
@@ -219,18 +237,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-01-28T15:10:53Z",
-      "createdAt": "2024-10-14T16:19:29Z",
-      "topics": []
-    },
-    {
       "name": "Player_Nekomusume",
       "fullName": "Little100/Player_Nekomusume",
       "description": "暂无描述",
@@ -328,10 +334,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 13,
+    "JavaScript": 14,
+    "Python": 8,
     "CSS": 11,
-    "JavaScript": 10,
-    "Java": 61,
-    "Python": 5
+    "HTML": 11,
+    "Java": 56
   }
 };
