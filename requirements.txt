@@ -2,3 +2,4 @@ requests
 pyyaml
 openpyxl
 bilibili-api-python
+httpx
