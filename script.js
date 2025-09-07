@@ -11,7 +11,7 @@ const app = createApp({
           github: "https://github.com/Little100",
           githubUsername: "Little100",
           location: "Earth China",
-          bio: "Hello~在这呢，我是Little_100，现在是高中生，有什么我可以帮您的嘛？我可是一位较为老的我的世界玩家uwu，你可以联系我的QQ: 2662308929或者加入群聊1032430138~关于插件，目前正在开发[无尽贪婪],[压缩木剑],[匠魂2],[超级农事],[暮色森林]尽情期待~qwp,目前等价交换插件已经进入短期内不打算维护了，维护消耗的精力太多了，见谅~",
+          bio: "Hello~在这呢，我是Little_100，现在是高中生，有什么我可以帮您的嘛？我可是一位较为老的我的世界玩家uwu，你可以联系我的QQ: 2662308929或者加入群聊1032430138~关于插件，目前正在开发[无尽贪婪],[匠魂2],[暮色森林]尽情期待~qwp,目前等价交换插件已经进入短期内不打算维护了，维护消耗的精力太多了，见谅~有问题先看文档哦~",
         },
         navigation: {
           items: [
@@ -753,8 +753,6 @@ const app = createApp({
       event.preventDefault()
       event.stopPropagation()
 
-      console.log("[v0] Wheel event triggered, delta:", event.deltaY)
-
       const zoomFactor = event.deltaY > 0 ? 1.2 : 0.8
       const minWidth = 200
       const maxWidth = 2000
@@ -769,8 +767,6 @@ const app = createApp({
       this.starMapViewBox.y = centerY - newHeight / 2
       this.starMapViewBox.width = newWidth
       this.starMapViewBox.height = newHeight
-
-      console.log("[v0] New viewBox:", this.starMapViewBox)
     },
 
     handleMouseDown(event) {

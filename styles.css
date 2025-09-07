@@ -181,6 +181,26 @@ body {
 
 .intro-content {
   text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.intro-section .card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  padding: 30px;
+  text-align: left;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.dark .intro-section .card {
+  background: rgba(30, 41, 59, 0.3);
+  border: 1px solid rgba(51, 65, 85, 0.6);
 }
 
 .avatar-container {
@@ -208,11 +228,34 @@ body {
   margin-bottom: 50px;
 }
 
-.cards-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 30px;
+.intro-section .cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
   margin-top: 50px;
+  width: 100%;
+  justify-content: center;
+}
+
+.intro-section .cards-container .card {
+  width: 350px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+@media (max-width: 1200px) {
+  .intro-section .cards-container .card {
+    width: calc(50% - 10px);
+    flex-grow: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-section .cards-container .card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
 }
 
 .card {
@@ -233,6 +276,57 @@ body {
 
 .dark .card:hover {
   border-color: rgba(51, 65, 85, 0.8);
+}
+
+.docs-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.docs-features {
+  display: flex;
+  gap: 15px;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.docs-feature {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: rgba(59, 130, 246, 0.1);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  transition: all 0.3s ease;
+}
+
+.docs-feature:hover {
+  background: rgba(59, 130, 246, 0.2);
+  transform: translateY(-2px);
+}
+
+.docs-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 12px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  margin-top: 15px;
+}
+
+.docs-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
 
 .card h3 {
