@@ -125,6 +125,9 @@ async def generate_bilibili_data(uid="1492647738", output_dir="Excel"):
         
         # 使用bilibili_fetcher获取数据
         plugin_config = {'uid': uid}
+        sessdata = os.getenv('SESSDATA')
+        if sessdata:
+            plugin_config['sessdata'] = sessdata
         bilibili_data = await fetch_user_videos(plugin_config, output_dir)
         
         if not bilibili_data or not bilibili_data.get('videos'):

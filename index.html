@@ -231,11 +231,6 @@
                                     {{ project.language || 'Unknown' }}
                                 </span>
                             </div>
-                            <span v-if="project.topics && project.topics.length > 0" class="project-topics">
-                                <span v-for="topic in project.topics.slice(0, 3)" :key="topic" class="topic-tag">
-                                    {{ topic }}
-                                </span>
-                            </span>
                         </div>
                     </div>
                     

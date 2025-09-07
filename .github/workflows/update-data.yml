@@ -31,6 +31,7 @@ jobs:
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BILIBILI_UID: ${{ secrets.BILIBILI_UID }}
+        SESSDATA: ${{ secrets.SESSDATA }}
       run: |
         python unified_data_fetcher.py
         
