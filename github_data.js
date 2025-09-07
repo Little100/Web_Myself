@@ -8,9 +8,39 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-07T01:08:54Z",
+      "updatedAt": "2025-09-07T18:57:36Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
+    },
+    {
+      "name": "Super_Stick_Sword",
+      "fullName": "Little100/Super_Stick_Sword",
+      "description": "A Minecraft Plugin,from Super Stick Sword mod",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Super_Stick_Sword",
+      "updatedAt": "2025-09-07T18:44:30Z",
+      "createdAt": "2025-09-07T03:03:33Z",
+      "topics": [
+        "minecraft",
+        "minecraft-plugin"
+      ]
+    },
+    {
+      "name": "Super_Farming",
+      "fullName": "Little100/Super_Farming",
+      "description": "a minecraft plugin ",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Super_Farming",
+      "updatedAt": "2025-09-07T18:43:58Z",
+      "createdAt": "2025-09-07T16:39:44Z",
+      "topics": [
+        "minecraft",
+        "minecraft-plugin"
+      ]
     },
     {
       "name": "ProjectE-plugin",
@@ -20,7 +50,7 @@ window.GITHUB_DATA = {
       "stars": 9,
       "forks": 1,
       "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-06T13:45:25Z",
+      "updatedAt": "2025-09-07T18:43:08Z",
       "createdAt": "2025-07-27T11:20:55Z",
       "topics": [
         "minecraft",
@@ -31,6 +61,18 @@ window.GITHUB_DATA = {
       ]
     },
     {
+      "name": "docs",
+      "fullName": "Little100/docs",
+      "description": "docs",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/docs",
+      "updatedAt": "2025-09-07T18:41:43Z",
+      "createdAt": "2025-09-07T18:36:38Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -38,7 +80,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-06T01:41:30Z",
+      "updatedAt": "2025-09-07T01:50:08Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -334,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "JavaScript": 13,
+    "JavaScript": 14,
     "Python": 8,
-    "CSS": 11,
-    "HTML": 11,
-    "Java": 57
+    "CSS": 10,
+    "HTML": 10,
+    "Java": 58
   }
 };
