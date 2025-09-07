@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-07T01:00:34Z",
+      "updatedAt": "2025-09-07T01:01:40Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -334,10 +334,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "JavaScript": 14,
+    "JavaScript": 13,
     "Python": 8,
     "CSS": 11,
     "HTML": 11,
-    "Java": 56
+    "Java": 57
   }
 };
