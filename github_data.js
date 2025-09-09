@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-09-08T01:49:46Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
       "name": "Web_Myself",
       "fullName": "Little100/Web_Myself",
       "description": "暂无描述",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-07T18:59:12Z",
+      "updatedAt": "2025-09-08T00:50:53Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -70,18 +82,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/docs",
       "updatedAt": "2025-09-07T18:41:43Z",
       "createdAt": "2025-09-07T18:36:38Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-07T01:50:08Z",
-      "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
     {
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
+    "HTML": 55,
+    "CSS": 5,
     "JavaScript": 7,
     "Python": 4,
-    "CSS": 5,
-    "HTML": 55,
     "Java": 29
   }
 };
