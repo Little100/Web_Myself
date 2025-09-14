@@ -1,6 +1,24 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 10,
+      "forks": 3,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-09-13T08:19:31Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +26,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-12T01:41:16Z",
+      "updatedAt": "2025-09-13T01:37:15Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +38,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-12T00:45:39Z",
+      "updatedAt": "2025-09-13T00:43:17Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -52,24 +70,6 @@ window.GITHUB_DATA = {
       "topics": [
         "minecraft",
         "minecraft-plugin"
-      ]
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 9,
-      "forks": 1,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-07T18:43:08Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
       ]
     },
     {
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 55,
+    "Java": 30,
+    "HTML": 54,
     "CSS": 5,
-    "JavaScript": 6,
-    "Python": 4,
-    "Java": 30
+    "JavaScript": 7,
+    "Python": 4
   }
 };
