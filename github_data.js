@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 10,
       "forks": 3,
       "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-13T08:19:31Z",
+      "updatedAt": "2025-09-14T06:29:25Z",
       "createdAt": "2025-07-27T11:20:55Z",
       "topics": [
         "minecraft",
@@ -19,15 +19,15 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "name": "docs",
+      "fullName": "Little100/docs",
+      "description": "docs",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-13T01:37:15Z",
-      "createdAt": "2025-05-16T11:53:06Z",
+      "url": "https://github.com/Little100/docs",
+      "updatedAt": "2025-09-14T06:06:10Z",
+      "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
     },
     {
@@ -38,8 +38,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-13T00:43:17Z",
+      "updatedAt": "2025-09-14T04:30:41Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-09-14T01:49:40Z",
+      "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
     {
@@ -71,18 +83,6 @@ window.GITHUB_DATA = {
         "minecraft",
         "minecraft-plugin"
       ]
-    },
-    {
-      "name": "docs",
-      "fullName": "Little100/docs",
-      "description": "docs",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/docs",
-      "updatedAt": "2025-09-07T18:41:43Z",
-      "createdAt": "2025-09-07T18:36:38Z",
-      "topics": []
     },
     {
       "name": "MinecraftServersideBlockPack",
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Java": 30,
-    "HTML": 54,
-    "CSS": 5,
+    "Java": 28,
+    "HTML": 58,
     "JavaScript": 7,
-    "Python": 4
+    "Python": 4,
+    "CSS": 5
   }
 };
