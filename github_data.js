@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-09-15T01:51:07Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-09-15T00:51:55Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "ProjectE-plugin",
       "fullName": "Little100/ProjectE-plugin",
       "description": "A Minecraft Plugin,from ProjectE mod",
@@ -28,30 +52,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/docs",
       "updatedAt": "2025-09-14T06:06:10Z",
       "createdAt": "2025-09-07T18:36:38Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-14T04:30:41Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-14T01:49:40Z",
-      "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
     {
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Java": 28,
     "HTML": 58,
+    "CSS": 5,
     "JavaScript": 7,
     "Python": 4,
-    "CSS": 5
+    "Java": 28
   }
 };
