@@ -1,6 +1,51 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "docs",
+      "fullName": "Little100/docs",
+      "description": "docs",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/docs",
+      "updatedAt": "2025-09-20T18:00:55Z",
+      "createdAt": "2025-09-07T18:36:38Z",
+      "topics": []
+    },
+    {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 11,
+      "forks": 4,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-09-20T17:54:21Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
+      "name": "Super_Farming",
+      "fullName": "Little100/Super_Farming",
+      "description": "a minecraft plugin ",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Super_Farming",
+      "updatedAt": "2025-09-20T17:34:56Z",
+      "createdAt": "2025-09-07T16:39:44Z",
+      "topics": [
+        "minecraft",
+        "minecraft-plugin"
+      ]
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +53,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-19T01:45:40Z",
+      "updatedAt": "2025-09-20T01:40:34Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,38 +65,8 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-19T00:48:09Z",
+      "updatedAt": "2025-09-20T00:44:46Z",
       "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 10,
-      "forks": 3,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-14T06:29:25Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
-      ]
-    },
-    {
-      "name": "docs",
-      "fullName": "Little100/docs",
-      "description": "docs",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/docs",
-      "updatedAt": "2025-09-14T06:06:10Z",
-      "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
     },
     {
@@ -64,21 +79,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Super_Stick_Sword",
       "updatedAt": "2025-09-07T18:44:30Z",
       "createdAt": "2025-09-07T03:03:33Z",
-      "topics": [
-        "minecraft",
-        "minecraft-plugin"
-      ]
-    },
-    {
-      "name": "Super_Farming",
-      "fullName": "Little100/Super_Farming",
-      "description": "a minecraft plugin ",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Super_Farming",
-      "updatedAt": "2025-09-07T18:43:58Z",
-      "createdAt": "2025-09-07T16:39:44Z",
       "topics": [
         "minecraft",
         "minecraft-plugin"
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 58,
-    "CSS": 5,
-    "JavaScript": 7,
-    "Python": 4,
-    "Java": 28
+    "HTML": 63,
+    "JavaScript": 6,
+    "Java": 24,
+    "CSS": 4,
+    "Python": 3
   }
 };
