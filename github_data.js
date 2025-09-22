@@ -1,6 +1,48 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 11,
+      "forks": 4,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-09-21T08:10:51Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-09-21T01:52:50Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-09-21T00:52:34Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "docs",
       "fullName": "Little100/docs",
       "description": "docs",
@@ -11,24 +53,6 @@ window.GITHUB_DATA = {
       "updatedAt": "2025-09-20T18:00:55Z",
       "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 11,
-      "forks": 4,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-20T17:54:21Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
-      ]
     },
     {
       "name": "Super_Farming",
@@ -44,30 +68,6 @@ window.GITHUB_DATA = {
         "minecraft",
         "minecraft-plugin"
       ]
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-20T01:40:34Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-20T00:44:46Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
     },
     {
       "name": "Super_Stick_Sword",
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 63,
-    "JavaScript": 6,
     "Java": 24,
+    "HTML": 63,
     "CSS": 4,
+    "JavaScript": 6,
     "Python": 3
   }
 };
