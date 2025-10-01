@@ -1,30 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-09-29T01:47:38Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-09-29T00:49:09Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
       "name": "ProjectE-plugin",
       "fullName": "Little100/ProjectE-plugin",
       "description": "A Minecraft Plugin,from ProjectE mod",
@@ -32,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 11,
       "forks": 4,
       "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-09-21T08:10:51Z",
+      "updatedAt": "2025-09-30T19:22:47Z",
       "createdAt": "2025-07-27T11:20:55Z",
       "topics": [
         "minecraft",
@@ -50,8 +26,32 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/docs",
-      "updatedAt": "2025-09-20T18:00:55Z",
+      "updatedAt": "2025-09-30T17:19:51Z",
       "createdAt": "2025-09-07T18:36:38Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-09-30T01:42:36Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-09-30T00:47:48Z",
+      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -376,10 +376,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 63,
-    "CSS": 4,
+    "Java": 25,
+    "HTML": 62,
     "JavaScript": 5,
-    "Python": 3,
-    "Java": 24
+    "CSS": 4,
+    "Python": 3
   }
 };
