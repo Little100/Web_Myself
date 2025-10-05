@@ -1,15 +1,27 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "name": "Avaritia_Plugin",
+      "fullName": "Little100/Avaritia_Plugin",
+      "description": "a simple plugin just from avaitia mod to plugin",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Avaritia_Plugin",
+      "updatedAt": "2025-10-04T19:38:24Z",
+      "createdAt": "2025-10-04T19:19:59Z",
+      "topics": []
+    },
+    {
+      "name": "docs",
+      "fullName": "Little100/docs",
+      "description": "docs",
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-10-03T01:42:42Z",
-      "createdAt": "2025-05-16T11:53:06Z",
+      "url": "https://github.com/Little100/docs",
+      "updatedAt": "2025-10-04T19:04:25Z",
+      "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
     },
     {
@@ -20,8 +32,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-10-03T00:45:49Z",
+      "updatedAt": "2025-10-04T05:32:28Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-10-04T01:39:13Z",
+      "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
     {
@@ -41,18 +65,6 @@ window.GITHUB_DATA = {
         "minecraft-server",
         "projecte"
       ]
-    },
-    {
-      "name": "docs",
-      "fullName": "Little100/docs",
-      "description": "docs",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/docs",
-      "updatedAt": "2025-09-30T17:19:51Z",
-      "createdAt": "2025-09-07T18:36:38Z",
-      "topics": []
     },
     {
       "name": "Super_Farming",
@@ -376,10 +388,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 62,
-    "CSS": 4,
-    "JavaScript": 5,
+    "Java": 31,
+    "HTML": 57,
+    "JavaScript": 6,
     "Python": 3,
-    "Java": 25
+    "CSS": 4
   }
 };
