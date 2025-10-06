@@ -1,6 +1,48 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-10-05T16:59:28Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 13,
+      "forks": 6,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-10-05T16:31:39Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-10-05T01:52:43Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
       "name": "Avaritia_Plugin",
       "fullName": "Little100/Avaritia_Plugin",
       "description": "a simple plugin just from avaitia mod to plugin",
@@ -23,48 +65,6 @@ window.GITHUB_DATA = {
       "updatedAt": "2025-10-04T19:04:25Z",
       "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-10-04T05:32:28Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-10-04T01:39:13Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 12,
-      "forks": 4,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-10-01T16:58:40Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
-      ]
     },
     {
       "name": "Super_Farming",
@@ -388,10 +388,10 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 62,
-    "CSS": 4,
-    "JavaScript": 5,
+    "JavaScript": 6,
     "Python": 3,
-    "Java": 25
+    "CSS": 4,
+    "HTML": 57,
+    "Java": 31
   }
 };
