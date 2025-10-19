@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-10-18T01:41:00Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-10-18T00:44:40Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Pack_Hub",
       "fullName": "Little100/Minecraft_Pack_Hub",
       "description": "暂无描述",
@@ -73,18 +97,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Anvil_Fixer",
-      "fullName": "Little100/Anvil_Fixer",
-      "description": "can fix anvil in minecraft",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Anvil_Fixer",
-      "updatedAt": "2025-10-17T13:59:00Z",
-      "createdAt": "2024-12-01T08:08:41Z",
-      "topics": []
-    },
-    {
       "name": "Liteitemshow",
       "fullName": "Little100/Liteitemshow",
       "description": "暂无描述",
@@ -94,6 +106,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Liteitemshow",
       "updatedAt": "2025-10-17T13:59:00Z",
       "createdAt": "2024-08-31T06:30:45Z",
+      "topics": []
+    },
+    {
+      "name": "Anvil_Fixer",
+      "fullName": "Little100/Anvil_Fixer",
+      "description": "can fix anvil in minecraft",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Anvil_Fixer",
+      "updatedAt": "2025-10-17T13:59:00Z",
+      "createdAt": "2024-12-01T08:08:41Z",
       "topics": []
     },
     {
@@ -157,18 +181,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "MC_Skin_Generator",
-      "fullName": "Little100/MC_Skin_Generator",
-      "description": "Form a image to Minecaft skin",
-      "language": "Python",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/MC_Skin_Generator",
-      "updatedAt": "2025-10-17T13:58:54Z",
-      "createdAt": "2025-05-04T06:33:05Z",
-      "topics": []
-    },
-    {
       "name": "No_Eat_Limit",
       "fullName": "Little100/No_Eat_Limit",
       "description": "让玩家没有吃食物的饱食度限制",
@@ -178,6 +190,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/No_Eat_Limit",
       "updatedAt": "2025-10-17T13:58:54Z",
       "createdAt": "2025-04-13T08:37:31Z",
+      "topics": []
+    },
+    {
+      "name": "MC_Skin_Generator",
+      "fullName": "Little100/MC_Skin_Generator",
+      "description": "Form a image to Minecaft skin",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/MC_Skin_Generator",
+      "updatedAt": "2025-10-17T13:58:54Z",
+      "createdAt": "2025-05-04T06:33:05Z",
       "topics": []
     },
     {
@@ -339,18 +363,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Avaritia_Plugin",
-      "fullName": "Little100/Avaritia_Plugin",
-      "description": "a simple plugin just from avaitia mod to plugin",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Avaritia_Plugin",
-      "updatedAt": "2025-10-17T13:58:40Z",
-      "createdAt": "2025-10-04T19:19:59Z",
-      "topics": []
-    },
-    {
       "name": "docs",
       "fullName": "Little100/docs",
       "description": "docs",
@@ -363,37 +375,25 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
+      "name": "Avaritia_Plugin",
+      "fullName": "Little100/Avaritia_Plugin",
+      "description": "a simple plugin just from avaitia mod to plugin",
+      "language": "Java",
       "stars": 1,
       "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-10-17T13:58:38Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-10-17T13:58:37Z",
-      "createdAt": "2025-05-16T11:53:06Z",
+      "url": "https://github.com/Little100/Avaritia_Plugin",
+      "updatedAt": "2025-10-17T13:58:40Z",
+      "createdAt": "2025-10-04T19:19:59Z",
       "topics": []
     }
   ],
   "languages": {
-    "JavaScript": 18,
-    "HTML": 20,
-    "CSS": 15,
-    "SCSS": 8,
+    "HTML": 22,
+    "CSS": 19,
+    "JavaScript": 25,
     "Batchfile": 1,
-    "Java": 28,
-    "Python": 9
+    "Python": 11,
+    "SCSS": 6,
+    "Java": 15
   }
 };
