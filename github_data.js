@@ -1,6 +1,24 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 14,
+      "forks": 6,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2025-10-26T17:24:50Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +26,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-10-25T01:45:44Z",
+      "updatedAt": "2025-10-26T01:54:18Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +38,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-10-25T00:47:19Z",
+      "updatedAt": "2025-10-26T00:53:15Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -279,18 +297,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "MinecraftServersideBlockPack",
-      "fullName": "Little100/MinecraftServersideBlockPack",
-      "description": "一个可以在我的世界服务端显示方块贴图的方法",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
-      "updatedAt": "2025-10-17T13:58:47Z",
-      "createdAt": "2025-08-11T12:57:37Z",
-      "topics": []
-    },
-    {
       "name": "Anti-Recall-OneBot",
       "fullName": "Little100/Anti-Recall-OneBot",
       "description": "a normal antirecall",
@@ -300,6 +306,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Anti-Recall-OneBot",
       "updatedAt": "2025-10-17T13:58:47Z",
       "createdAt": "2025-07-25T19:42:47Z",
+      "topics": []
+    },
+    {
+      "name": "MinecraftServersideBlockPack",
+      "fullName": "Little100/MinecraftServersideBlockPack",
+      "description": "一个可以在我的世界服务端显示方块贴图的方法",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
+      "updatedAt": "2025-10-17T13:58:47Z",
+      "createdAt": "2025-08-11T12:57:37Z",
       "topics": []
     },
     {
@@ -330,24 +348,6 @@ window.GITHUB_DATA = {
       "topics": [
         "minecraft",
         "minecraft-plugin"
-      ]
-    },
-    {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 14,
-      "forks": 6,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-10-17T13:58:42Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
       ]
     },
     {
@@ -388,12 +388,11 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 22,
-    "CSS": 19,
-    "JavaScript": 25,
-    "Batchfile": 1,
-    "Python": 11,
-    "SCSS": 6,
-    "Java": 15
+    "Java": 58,
+    "HTML": 11,
+    "CSS": 9,
+    "JavaScript": 12,
+    "Python": 6,
+    "SCSS": 3
   }
 };
