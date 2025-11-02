@@ -8,20 +8,8 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-10-31T01:51:07Z",
+      "updatedAt": "2025-11-01T01:54:37Z",
       "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-10-31T00:50:20Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -32,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 14,
       "forks": 6,
       "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-10-26T17:24:50Z",
+      "updatedAt": "2025-11-01T00:57:51Z",
       "createdAt": "2025-07-27T11:20:55Z",
       "topics": [
         "minecraft",
@@ -41,6 +29,18 @@ window.GITHUB_DATA = {
         "minecraft-server",
         "projecte"
       ]
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-11-01T00:53:48Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
     },
     {
       "name": "Minecraft_Pack_Hub",
@@ -391,8 +391,8 @@ window.GITHUB_DATA = {
     "HTML": 11,
     "CSS": 9,
     "JavaScript": 12,
-    "Python": 6,
     "Java": 58,
+    "Python": 6,
     "SCSS": 3
   }
 };
