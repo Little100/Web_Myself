@@ -1,18 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Little100",
-      "fullName": "Little100/Little100",
-      "description": "暂无描述",
-      "language": null,
-      "stars": 2,
-      "forks": 0,
-      "url": "https://github.com/Little100/Little100",
-      "updatedAt": "2025-11-15T12:56:14Z",
-      "createdAt": "2024-08-08T08:56:23Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -20,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-11-15T01:49:23Z",
+      "updatedAt": "2025-11-16T01:58:57Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +20,20 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-11-15T00:50:37Z",
+      "updatedAt": "2025-11-16T00:55:36Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "Little100",
+      "fullName": "Little100/Little100",
+      "description": "暂无描述",
+      "language": null,
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/Little100",
+      "updatedAt": "2025-11-15T12:56:14Z",
+      "createdAt": "2024-08-08T08:56:23Z",
       "topics": []
     },
     {
@@ -55,18 +55,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Minecraft_Pack_Hub",
-      "fullName": "Little100/Minecraft_Pack_Hub",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Pack_Hub",
-      "updatedAt": "2025-10-17T13:59:10Z",
-      "createdAt": "2024-05-27T16:15:42Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_AutoLauncher",
       "fullName": "Little100/Minecraft_AutoLauncher",
       "description": "暂无描述",
@@ -76,6 +64,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_AutoLauncher",
       "updatedAt": "2025-10-17T13:59:10Z",
       "createdAt": "2024-07-09T16:54:38Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Pack_Hub",
+      "fullName": "Little100/Minecraft_Pack_Hub",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Pack_Hub",
+      "updatedAt": "2025-10-17T13:59:10Z",
+      "createdAt": "2024-05-27T16:15:42Z",
       "topics": []
     },
     {
@@ -388,11 +388,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 64,
+    "HTML": 65,
+    "Shell": 1,
+    "Python": 1,
     "CSS": 6,
     "JavaScript": 5,
-    "Python": 1,
-    "Java": 22,
+    "Java": 21,
     "SCSS": 1
   }
 };
