@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2025-11-26T14:07:46Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-11-25T01:54:11Z",
+      "updatedAt": "2025-11-26T01:54:14Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-11-25T00:50:34Z",
+      "updatedAt": "2025-11-26T00:52:07Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -388,10 +400,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 19,
+    "TypeScript": 1,
     "CSS": 2,
+    "Rust": 1,
+    "HTML": 18,
     "JavaScript": 1,
-    "C": 47,
+    "C": 46,
     "C++": 24,
     "Java": 6
   }
