@@ -5,35 +5,11 @@ window.GITHUB_DATA = {
       "fullName": "Little100/Minecraft-Resourcespack-Editor",
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
       "language": "TypeScript",
-      "stars": 1,
+      "stars": 6,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2025-11-26T14:07:46Z",
+      "updatedAt": "2025-11-27T16:46:57Z",
       "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-11-26T01:54:14Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-11-26T00:52:07Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -41,10 +17,10 @@ window.GITHUB_DATA = {
       "fullName": "Little100/Little100",
       "description": "暂无描述",
       "language": null,
-      "stars": 2,
+      "stars": 3,
       "forks": 0,
       "url": "https://github.com/Little100/Little100",
-      "updatedAt": "2025-11-15T12:56:14Z",
+      "updatedAt": "2025-11-27T13:46:03Z",
       "createdAt": "2024-08-08T08:56:23Z",
       "topics": []
     },
@@ -56,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 14,
       "forks": 6,
       "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2025-11-14T19:12:39Z",
+      "updatedAt": "2025-11-27T11:27:42Z",
       "createdAt": "2025-07-27T11:20:55Z",
       "topics": [
         "minecraft",
@@ -65,6 +41,42 @@ window.GITHUB_DATA = {
         "minecraft-server",
         "projecte"
       ]
+    },
+    {
+      "name": "Minecraft_Pack_Hub",
+      "fullName": "Little100/Minecraft_Pack_Hub",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Pack_Hub",
+      "updatedAt": "2025-11-27T10:08:29Z",
+      "createdAt": "2024-05-27T16:15:42Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-11-27T01:51:58Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-11-27T00:51:03Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
     },
     {
       "name": "Minecraft_AutoLauncher",
@@ -76,18 +88,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_AutoLauncher",
       "updatedAt": "2025-10-17T13:59:10Z",
       "createdAt": "2024-07-09T16:54:38Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Pack_Hub",
-      "fullName": "Little100/Minecraft_Pack_Hub",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Pack_Hub",
-      "updatedAt": "2025-10-17T13:59:10Z",
-      "createdAt": "2024-05-27T16:15:42Z",
       "topics": []
     },
     {
@@ -139,18 +139,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Liteitemshow",
-      "fullName": "Little100/Liteitemshow",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Liteitemshow",
-      "updatedAt": "2025-10-17T13:59:00Z",
-      "createdAt": "2024-08-31T06:30:45Z",
-      "topics": []
-    },
-    {
       "name": "Anvil_Fixer",
       "fullName": "Little100/Anvil_Fixer",
       "description": "can fix anvil in minecraft",
@@ -160,6 +148,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Anvil_Fixer",
       "updatedAt": "2025-10-17T13:59:00Z",
       "createdAt": "2024-12-01T08:08:41Z",
+      "topics": []
+    },
+    {
+      "name": "Liteitemshow",
+      "fullName": "Little100/Liteitemshow",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Liteitemshow",
+      "updatedAt": "2025-10-17T13:59:00Z",
+      "createdAt": "2024-08-31T06:30:45Z",
       "topics": []
     },
     {
@@ -400,13 +400,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 1,
+    "TypeScript": 2,
     "CSS": 2,
     "Rust": 1,
     "HTML": 18,
+    "Java": 5,
     "JavaScript": 1,
     "C": 46,
-    "C++": 24,
-    "Java": 6
+    "C++": 24
   }
 };
