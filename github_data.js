@@ -5,10 +5,10 @@ window.GITHUB_DATA = {
       "fullName": "Little100/Minecraft-Resourcespack-Editor",
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
       "language": "TypeScript",
-      "stars": 8,
+      "stars": 11,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2025-11-28T23:53:57Z",
+      "updatedAt": "2025-11-30T00:34:51Z",
       "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-11-28T01:51:49Z",
+      "updatedAt": "2025-11-29T01:51:23Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-11-28T00:49:56Z",
+      "updatedAt": "2025-11-29T00:50:11Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -401,11 +401,12 @@ window.GITHUB_DATA = {
   ],
   "languages": {
     "TypeScript": 2,
+    "CSS": 3,
     "Rust": 1,
-    "CSS": 2,
+    "Python": 1,
     "HTML": 18,
     "JavaScript": 1,
-    "Java": 6,
+    "Java": 5,
     "C": 45,
     "C++": 23
   }
