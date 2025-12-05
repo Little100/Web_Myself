@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-12-04T01:56:53Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-12-04T00:53:12Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft-Resourcespack-Editor",
       "fullName": "Little100/Minecraft-Resourcespack-Editor",
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
@@ -22,30 +46,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/GayMCPack",
       "updatedAt": "2025-12-03T10:57:26Z",
       "createdAt": "2024-08-19T14:52:11Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-03T01:55:47Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-03T00:52:47Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -400,12 +400,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 4,
-    "CSS": 3,
-    "Rust": 1,
-    "Python": 1,
     "HTML": 18,
+    "CSS": 3,
     "JavaScript": 1,
+    "Python": 1,
+    "TypeScript": 4,
+    "Rust": 1,
     "Java": 5,
     "C": 44,
     "C++": 23
