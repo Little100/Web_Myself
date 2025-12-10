@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-12-09T01:57:02Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-12-09T00:53:13Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "MRE-Market",
       "fullName": "Little100/MRE-Market",
       "description": "a market,you can download some people's plugin or minecraft resourcepack",
@@ -76,30 +100,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/DomMobsManager",
       "updatedAt": "2025-12-08T06:55:13Z",
       "createdAt": "2025-12-08T06:39:54Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-08T01:58:00Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-08T00:53:57Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -460,13 +460,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 4,
+    "HTML": 16,
     "CSS": 3,
+    "JavaScript": 1,
+    "TypeScript": 4,
+    "Python": 1,
     "Java": 14,
     "Rust": 1,
-    "Python": 1,
-    "HTML": 16,
-    "JavaScript": 1,
     "C": 40,
     "C++": 21
   }
