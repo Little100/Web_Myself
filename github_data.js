@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 21,
+      "forks": 1,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2025-12-11T13:19:05Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
+      "name": "DomAreaLimitComman",
+      "fullName": "Little100/DomAreaLimitComman",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/DomAreaLimitComman",
+      "updatedAt": "2025-12-11T08:41:21Z",
+      "createdAt": "2025-12-08T11:19:48Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-10T01:58:58Z",
+      "updatedAt": "2025-12-11T02:00:41Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +44,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-10T00:54:48Z",
+      "updatedAt": "2025-12-11T00:55:13Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -34,18 +58,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/MRE-Market",
       "updatedAt": "2025-12-08T13:49:15Z",
       "createdAt": "2025-12-06T06:18:49Z",
-      "topics": []
-    },
-    {
-      "name": "DomAreaLimitComman",
-      "fullName": "Little100/DomAreaLimitComman",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/DomAreaLimitComman",
-      "updatedAt": "2025-12-08T11:21:37Z",
-      "createdAt": "2025-12-08T11:19:48Z",
       "topics": []
     },
     {
@@ -77,18 +89,6 @@ window.GITHUB_DATA = {
         "minecraft-server",
         "projecte"
       ]
-    },
-    {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 20,
-      "forks": 1,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2025-12-08T10:28:48Z",
-      "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
     },
     {
       "name": "DomMobsManager",
@@ -460,13 +460,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 16,
-    "CSS": 3,
-    "JavaScript": 1,
-    "Python": 1,
     "TypeScript": 4,
-    "Java": 14,
+    "CSS": 3,
     "Rust": 1,
+    "Python": 1,
+    "HTML": 16,
+    "Java": 14,
+    "JavaScript": 1,
     "C": 40,
     "C++": 21
   }
