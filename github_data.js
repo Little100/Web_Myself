@@ -1,15 +1,15 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "ConstructionWand_Pugin",
-      "fullName": "Little100/ConstructionWand_Pugin",
-      "description": "a minecraft mod but reborn in spigot",
-      "language": "Java",
-      "stars": 0,
+      "name": "Little100",
+      "fullName": "Little100/Little100",
+      "description": "暂无描述",
+      "language": null,
+      "stars": 4,
       "forks": 0,
-      "url": "https://github.com/Little100/ConstructionWand_Pugin",
-      "updatedAt": "2025-12-12T11:02:36Z",
-      "createdAt": "2025-12-07T03:16:44Z",
+      "url": "https://github.com/Little100/Little100",
+      "updatedAt": "2025-12-13T12:27:40Z",
+      "createdAt": "2024-08-08T08:56:23Z",
       "topics": []
     },
     {
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-12T01:59:52Z",
+      "updatedAt": "2025-12-13T01:53:39Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +32,20 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-12T00:54:15Z",
+      "updatedAt": "2025-12-13T00:51:31Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "ConstructionWand_Pugin",
+      "fullName": "Little100/ConstructionWand_Pugin",
+      "description": "a minecraft mod but reborn in spigot",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/ConstructionWand_Pugin",
+      "updatedAt": "2025-12-12T11:02:36Z",
+      "createdAt": "2025-12-07T03:16:44Z",
       "topics": []
     },
     {
@@ -90,7 +102,7 @@ window.GITHUB_DATA = {
       "description": "A Minecraft Plugin,from ProjectE mod",
       "language": "Java",
       "stars": 14,
-      "forks": 6,
+      "forks": 5,
       "url": "https://github.com/Little100/ProjectE-plugin",
       "updatedAt": "2025-12-08T10:50:27Z",
       "createdAt": "2025-07-27T11:20:55Z",
@@ -124,18 +136,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/GayMCPack",
       "updatedAt": "2025-12-06T14:15:10Z",
       "createdAt": "2024-08-19T14:52:11Z",
-      "topics": []
-    },
-    {
-      "name": "Little100",
-      "fullName": "Little100/Little100",
-      "description": "暂无描述",
-      "language": null,
-      "stars": 3,
-      "forks": 0,
-      "url": "https://github.com/Little100/Little100",
-      "updatedAt": "2025-11-27T13:46:03Z",
-      "createdAt": "2024-08-08T08:56:23Z",
       "topics": []
     },
     {
@@ -345,18 +345,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "yayagongyi",
-      "fullName": "Little100/yayagongyi",
-      "description": "吖吖公益",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/yayagongyi",
-      "updatedAt": "2025-10-17T13:58:50Z",
-      "createdAt": "2025-04-19T02:18:12Z",
-      "topics": []
-    },
-    {
       "name": "Torcherino_Plugin",
       "fullName": "Little100/Torcherino_Plugin",
       "description": "我的世界加速火把 但是插件版",
@@ -366,6 +354,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Torcherino_Plugin",
       "updatedAt": "2025-10-17T13:58:50Z",
       "createdAt": "2025-07-07T15:49:57Z",
+      "topics": []
+    },
+    {
+      "name": "yayagongyi",
+      "fullName": "Little100/yayagongyi",
+      "description": "吖吖公益",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/yayagongyi",
+      "updatedAt": "2025-10-17T13:58:50Z",
+      "createdAt": "2025-04-19T02:18:12Z",
       "topics": []
     },
     {
@@ -381,18 +381,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "MinecraftServersideBlockPack",
-      "fullName": "Little100/MinecraftServersideBlockPack",
-      "description": "一个可以在我的世界服务端显示方块贴图的方法",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
-      "updatedAt": "2025-10-17T13:58:47Z",
-      "createdAt": "2025-08-11T12:57:37Z",
-      "topics": []
-    },
-    {
       "name": "Anti-Recall-OneBot",
       "fullName": "Little100/Anti-Recall-OneBot",
       "description": "a normal antirecall",
@@ -402,6 +390,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Anti-Recall-OneBot",
       "updatedAt": "2025-10-17T13:58:47Z",
       "createdAt": "2025-07-25T19:42:47Z",
+      "topics": []
+    },
+    {
+      "name": "MinecraftServersideBlockPack",
+      "fullName": "Little100/MinecraftServersideBlockPack",
+      "description": "一个可以在我的世界服务端显示方块贴图的方法",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
+      "updatedAt": "2025-10-17T13:58:47Z",
+      "createdAt": "2025-08-11T12:57:37Z",
       "topics": []
     },
     {
@@ -460,11 +460,11 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Java": 14,
     "HTML": 16,
     "CSS": 3,
     "JavaScript": 1,
     "Python": 1,
+    "Java": 14,
     "TypeScript": 4,
     "Rust": 1,
     "C": 40,
