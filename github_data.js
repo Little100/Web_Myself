@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-12-21T02:06:23Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-12-21T00:58:43Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "ProjectE-plugin",
       "fullName": "Little100/ProjectE-plugin",
       "description": "A Minecraft Plugin,from ProjectE mod",
@@ -28,30 +52,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
       "updatedAt": "2025-12-20T04:19:18Z",
       "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-20T01:53:35Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-20T00:51:33Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -460,13 +460,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
+    "HTML": 16,
+    "CSS": 3,
+    "JavaScript": 1,
+    "Python": 1,
     "Java": 14,
     "TypeScript": 4,
-    "CSS": 3,
     "Rust": 1,
-    "Python": 1,
-    "HTML": 16,
-    "JavaScript": 1,
     "C": 40,
     "C++": 21
   }
