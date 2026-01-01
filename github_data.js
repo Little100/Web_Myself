@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2025-12-31T02:02:04Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2025-12-31T00:56:49Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "ProjectE-plugin",
       "fullName": "Little100/ProjectE-plugin",
       "description": "A Minecraft Plugin,from ProjectE mod",
@@ -17,30 +41,6 @@ window.GITHUB_DATA = {
         "minecraft-server",
         "projecte"
       ]
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2025-12-30T02:01:50Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2025-12-30T00:55:19Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
     },
     {
       "name": "Minecraft-Resourcespack-Editor",
@@ -460,11 +460,11 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Java": 14,
     "HTML": 16,
     "CSS": 3,
     "JavaScript": 2,
     "Python": 1,
+    "Java": 14,
     "TypeScript": 4,
     "Rust": 1,
     "C": 40,
