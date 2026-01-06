@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Server_Manager",
+      "fullName": "Little100/Minecraft_Server_Manager",
+      "description": "a minecraft server mananger",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Server_Manager",
+      "updatedAt": "2026-01-05T16:37:37Z",
+      "createdAt": "2025-01-22T09:39:23Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-04T02:20:07Z",
+      "updatedAt": "2026-01-05T02:19:37Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-04T01:02:17Z",
+      "updatedAt": "2026-01-05T01:01:19Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -211,18 +223,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Liteitemshow",
-      "fullName": "Little100/Liteitemshow",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Liteitemshow",
-      "updatedAt": "2025-10-17T13:59:00Z",
-      "createdAt": "2024-08-31T06:30:45Z",
-      "topics": []
-    },
-    {
       "name": "Anvil_Fixer",
       "fullName": "Little100/Anvil_Fixer",
       "description": "can fix anvil in minecraft",
@@ -232,6 +232,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Anvil_Fixer",
       "updatedAt": "2025-10-17T13:59:00Z",
       "createdAt": "2024-12-01T08:08:41Z",
+      "topics": []
+    },
+    {
+      "name": "Liteitemshow",
+      "fullName": "Little100/Liteitemshow",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Liteitemshow",
+      "updatedAt": "2025-10-17T13:59:00Z",
+      "createdAt": "2024-08-31T06:30:45Z",
       "topics": []
     },
     {
@@ -307,18 +319,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Minecraft_Server_Manager",
-      "fullName": "Little100/Minecraft_Server_Manager",
-      "description": "a minecraft server mananger",
-      "language": "JavaScript",
-      "stars": 2,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Server_Manager",
-      "updatedAt": "2025-10-17T13:58:53Z",
-      "createdAt": "2025-01-22T09:39:23Z",
-      "topics": []
-    },
-    {
       "name": "Furry.Beer",
       "fullName": "Little100/Furry.Beer",
       "description": "a furry html",
@@ -345,18 +345,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Torcherino_Plugin",
-      "fullName": "Little100/Torcherino_Plugin",
-      "description": "我的世界加速火把 但是插件版",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Torcherino_Plugin",
-      "updatedAt": "2025-10-17T13:58:50Z",
-      "createdAt": "2025-07-07T15:49:57Z",
-      "topics": []
-    },
-    {
       "name": "yayagongyi",
       "fullName": "Little100/yayagongyi",
       "description": "吖吖公益",
@@ -366,6 +354,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/yayagongyi",
       "updatedAt": "2025-10-17T13:58:50Z",
       "createdAt": "2025-04-19T02:18:12Z",
+      "topics": []
+    },
+    {
+      "name": "Torcherino_Plugin",
+      "fullName": "Little100/Torcherino_Plugin",
+      "description": "我的世界加速火把 但是插件版",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Torcherino_Plugin",
+      "updatedAt": "2025-10-17T13:58:50Z",
+      "createdAt": "2025-07-07T15:49:57Z",
       "topics": []
     },
     {
@@ -460,14 +460,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 16,
-    "CSS": 3,
     "JavaScript": 2,
+    "CSS": 2,
+    "HTML": 2,
     "Python": 1,
-    "Java": 14,
+    "Java": 16,
     "TypeScript": 4,
     "Rust": 1,
-    "C": 40,
-    "C++": 21
+    "C": 47,
+    "C++": 24
   }
 };
