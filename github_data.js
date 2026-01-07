@@ -1,18 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Minecraft_Server_Manager",
-      "fullName": "Little100/Minecraft_Server_Manager",
-      "description": "a minecraft server mananger",
-      "language": "JavaScript",
-      "stars": 3,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Server_Manager",
-      "updatedAt": "2026-01-05T16:37:37Z",
-      "createdAt": "2025-01-22T09:39:23Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -20,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-05T02:19:37Z",
+      "updatedAt": "2026-01-06T02:03:35Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +20,20 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-05T01:01:19Z",
+      "updatedAt": "2026-01-06T00:56:30Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Server_Manager",
+      "fullName": "Little100/Minecraft_Server_Manager",
+      "description": "a minecraft server mananger",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Server_Manager",
+      "updatedAt": "2026-01-05T16:37:37Z",
+      "createdAt": "2025-01-22T09:39:23Z",
       "topics": []
     },
     {
@@ -460,9 +460,9 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "JavaScript": 2,
-    "CSS": 2,
     "HTML": 2,
+    "CSS": 2,
+    "JavaScript": 2,
     "Python": 1,
     "Java": 16,
     "TypeScript": 4,
