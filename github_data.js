@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "CCB",
+      "fullName": "Little100/CCB",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/CCB",
+      "updatedAt": "2026-01-08T08:08:55Z",
+      "createdAt": "2026-01-08T08:06:04Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-07T02:03:21Z",
+      "updatedAt": "2026-01-08T02:03:37Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-07T00:56:57Z",
+      "updatedAt": "2026-01-08T00:56:32Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -223,18 +235,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Anvil_Fixer",
-      "fullName": "Little100/Anvil_Fixer",
-      "description": "can fix anvil in minecraft",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Anvil_Fixer",
-      "updatedAt": "2025-10-17T13:59:00Z",
-      "createdAt": "2024-12-01T08:08:41Z",
-      "topics": []
-    },
-    {
       "name": "Liteitemshow",
       "fullName": "Little100/Liteitemshow",
       "description": "暂无描述",
@@ -247,15 +247,15 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Player_Nekomusume",
-      "fullName": "Little100/Player_Nekomusume",
-      "description": "暂无描述",
+      "name": "Anvil_Fixer",
+      "fullName": "Little100/Anvil_Fixer",
+      "description": "can fix anvil in minecraft",
       "language": "Java",
       "stars": 1,
       "forks": 0,
-      "url": "https://github.com/Little100/Player_Nekomusume",
-      "updatedAt": "2025-10-17T13:58:58Z",
-      "createdAt": "2024-12-01T08:11:26Z",
+      "url": "https://github.com/Little100/Anvil_Fixer",
+      "updatedAt": "2025-10-17T13:59:00Z",
+      "createdAt": "2024-12-01T08:08:41Z",
       "topics": []
     },
     {
@@ -268,6 +268,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/.love_domain",
       "updatedAt": "2025-10-17T13:58:58Z",
       "createdAt": "2025-02-11T08:08:17Z",
+      "topics": []
+    },
+    {
+      "name": "Player_Nekomusume",
+      "fullName": "Little100/Player_Nekomusume",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Player_Nekomusume",
+      "updatedAt": "2025-10-17T13:58:58Z",
+      "createdAt": "2024-12-01T08:11:26Z",
       "topics": []
     },
     {
@@ -381,18 +393,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Anti-Recall-OneBot",
-      "fullName": "Little100/Anti-Recall-OneBot",
-      "description": "a normal antirecall",
-      "language": "Python",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Anti-Recall-OneBot",
-      "updatedAt": "2025-10-17T13:58:47Z",
-      "createdAt": "2025-07-25T19:42:47Z",
-      "topics": []
-    },
-    {
       "name": "MinecraftServersideBlockPack",
       "fullName": "Little100/MinecraftServersideBlockPack",
       "description": "一个可以在我的世界服务端显示方块贴图的方法",
@@ -402,6 +402,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/MinecraftServersideBlockPack",
       "updatedAt": "2025-10-17T13:58:47Z",
       "createdAt": "2025-08-11T12:57:37Z",
+      "topics": []
+    },
+    {
+      "name": "Anti-Recall-OneBot",
+      "fullName": "Little100/Anti-Recall-OneBot",
+      "description": "a normal antirecall",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Anti-Recall-OneBot",
+      "updatedAt": "2025-10-17T13:58:47Z",
+      "createdAt": "2025-07-25T19:42:47Z",
       "topics": []
     },
     {
@@ -435,18 +447,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "docs",
-      "fullName": "Little100/docs",
-      "description": "docs",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/docs",
-      "updatedAt": "2025-10-17T13:58:40Z",
-      "createdAt": "2025-09-07T18:36:38Z",
-      "topics": []
-    },
-    {
       "name": "Avaritia_Plugin",
       "fullName": "Little100/Avaritia_Plugin",
       "description": "a simple plugin just from avaitia mod to plugin",
@@ -457,17 +457,29 @@ window.GITHUB_DATA = {
       "updatedAt": "2025-10-17T13:58:40Z",
       "createdAt": "2025-10-04T19:19:59Z",
       "topics": []
+    },
+    {
+      "name": "docs",
+      "fullName": "Little100/docs",
+      "description": "docs",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/docs",
+      "updatedAt": "2025-10-17T13:58:40Z",
+      "createdAt": "2025-09-07T18:36:38Z",
+      "topics": []
     }
   ],
   "languages": {
-    "HTML": 2,
+    "Java": 17,
+    "HTML": 1,
     "CSS": 2,
     "JavaScript": 2,
     "Python": 1,
-    "Java": 16,
     "TypeScript": 4,
     "Rust": 1,
-    "C": 47,
-    "C++": 24
+    "C": 48,
+    "C++": 25
   }
 };
