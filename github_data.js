@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 25,
+      "forks": 1,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-01-12T05:28:43Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-11T02:19:46Z",
+      "updatedAt": "2026-01-12T02:09:28Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-11T01:02:12Z",
+      "updatedAt": "2026-01-12T00:59:27Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -64,18 +76,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_Server_Manager",
       "updatedAt": "2026-01-05T16:37:37Z",
       "createdAt": "2025-01-22T09:39:23Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 24,
-      "forks": 1,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2025-12-20T04:19:18Z",
-      "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
     {
@@ -472,13 +472,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 1,
-    "CSS": 2,
-    "JavaScript": 2,
-    "Python": 1,
-    "Java": 17,
     "TypeScript": 4,
+    "CSS": 2,
     "Rust": 1,
+    "Python": 1,
+    "HTML": 1,
+    "JavaScript": 2,
+    "Java": 17,
     "C": 48,
     "C++": 25
   }
