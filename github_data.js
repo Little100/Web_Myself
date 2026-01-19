@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-17T01:59:06Z",
+      "updatedAt": "2026-01-18T02:12:14Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-17T00:54:59Z",
+      "updatedAt": "2026-01-18T01:01:25Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -30,7 +30,7 @@ window.GITHUB_DATA = {
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
       "language": "TypeScript",
       "stars": 25,
-      "forks": 1,
+      "forks": 2,
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
       "updatedAt": "2026-01-12T05:28:43Z",
       "createdAt": "2025-11-26T10:30:47Z",
