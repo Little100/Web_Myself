@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-19T02:10:04Z",
+      "updatedAt": "2026-01-20T02:04:58Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-19T01:01:04Z",
+      "updatedAt": "2026-01-20T00:56:07Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
