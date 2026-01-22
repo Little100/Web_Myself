@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 26,
+      "forks": 2,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-01-21T05:05:17Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-20T02:04:58Z",
+      "updatedAt": "2026-01-21T02:07:48Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,20 +32,8 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-20T00:56:07Z",
+      "updatedAt": "2026-01-21T00:58:12Z",
       "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 25,
-      "forks": 2,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2026-01-12T05:28:43Z",
-      "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
     {
@@ -472,12 +472,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 1,
-    "CSS": 2,
-    "JavaScript": 2,
-    "Python": 1,
     "TypeScript": 4,
+    "CSS": 2,
     "Rust": 1,
+    "Python": 1,
+    "HTML": 1,
+    "JavaScript": 2,
     "Java": 17,
     "C": 48,
     "C++": 25
