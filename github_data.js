@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "AntiSeedMine",
+      "fullName": "Little100/AntiSeedMine",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/AntiSeedMine",
+      "updatedAt": "2026-01-26T06:25:52Z",
+      "createdAt": "2026-01-26T06:25:42Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-25T02:22:07Z",
+      "updatedAt": "2026-01-26T02:21:20Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-25T01:03:02Z",
+      "updatedAt": "2026-01-26T01:01:52Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -357,18 +369,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "yayagongyi",
-      "fullName": "Little100/yayagongyi",
-      "description": "吖吖公益",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/yayagongyi",
-      "updatedAt": "2025-10-17T13:58:50Z",
-      "createdAt": "2025-04-19T02:18:12Z",
-      "topics": []
-    },
-    {
       "name": "Torcherino_Plugin",
       "fullName": "Little100/Torcherino_Plugin",
       "description": "我的世界加速火把 但是插件版",
@@ -378,6 +378,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Torcherino_Plugin",
       "updatedAt": "2025-10-17T13:58:50Z",
       "createdAt": "2025-07-07T15:49:57Z",
+      "topics": []
+    },
+    {
+      "name": "yayagongyi",
+      "fullName": "Little100/yayagongyi",
+      "description": "吖吖公益",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/yayagongyi",
+      "updatedAt": "2025-10-17T13:58:50Z",
+      "createdAt": "2025-04-19T02:18:12Z",
       "topics": []
     },
     {
@@ -447,18 +459,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Avaritia_Plugin",
-      "fullName": "Little100/Avaritia_Plugin",
-      "description": "a simple plugin just from avaitia mod to plugin",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/Avaritia_Plugin",
-      "updatedAt": "2025-10-17T13:58:40Z",
-      "createdAt": "2025-10-04T19:19:59Z",
-      "topics": []
-    },
-    {
       "name": "docs",
       "fullName": "Little100/docs",
       "description": "docs",
@@ -469,17 +469,27 @@ window.GITHUB_DATA = {
       "updatedAt": "2025-10-17T13:58:40Z",
       "createdAt": "2025-09-07T18:36:38Z",
       "topics": []
+    },
+    {
+      "name": "Avaritia_Plugin",
+      "fullName": "Little100/Avaritia_Plugin",
+      "description": "a simple plugin just from avaitia mod to plugin",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/Avaritia_Plugin",
+      "updatedAt": "2025-10-17T13:58:40Z",
+      "createdAt": "2025-10-04T19:19:59Z",
+      "topics": []
     }
   ],
   "languages": {
-    "HTML": 1,
-    "CSS": 2,
-    "JavaScript": 2,
-    "Python": 1,
-    "TypeScript": 4,
-    "Rust": 1,
-    "Java": 17,
-    "C": 48,
-    "C++": 25
+    "Java": 61,
+    "HTML": 3,
+    "CSS": 8,
+    "JavaScript": 6,
+    "Python": 2,
+    "TypeScript": 15,
+    "Rust": 4
   }
 };
