@@ -5,10 +5,10 @@ window.GITHUB_DATA = {
       "fullName": "Little100/AntiSeedMine",
       "description": "暂无描述",
       "language": "Java",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/AntiSeedMine",
-      "updatedAt": "2026-01-26T06:25:52Z",
+      "updatedAt": "2026-01-27T13:00:07Z",
       "createdAt": "2026-01-26T06:25:42Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-01-26T02:21:20Z",
+      "updatedAt": "2026-01-27T02:11:52Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 1,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-01-26T01:01:52Z",
+      "updatedAt": "2026-01-27T01:00:31Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
