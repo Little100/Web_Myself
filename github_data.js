@@ -1,18 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "mclanggeter",
-      "fullName": "Little100/mclanggeter",
-      "description": "暂无描述",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/mclanggeter",
-      "updatedAt": "2026-02-05T05:15:22Z",
-      "createdAt": "2026-02-05T05:15:09Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -20,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-05T02:32:14Z",
+      "updatedAt": "2026-02-06T02:32:44Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +20,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-05T01:06:53Z",
+      "updatedAt": "2026-02-06T01:05:27Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "mclanggeter",
+      "fullName": "Little100/mclanggeter",
+      "description": "暂无描述",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/mclanggeter",
+      "updatedAt": "2026-02-05T05:15:22Z",
+      "createdAt": "2026-02-05T05:15:09Z",
       "topics": []
     },
     {
@@ -428,7 +428,7 @@ window.GITHUB_DATA = {
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
       "language": "TypeScript",
       "stars": 26,
-      "forks": 2,
+      "forks": 3,
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
       "updatedAt": "2026-01-21T05:05:17Z",
       "createdAt": "2025-11-26T10:30:47Z",
