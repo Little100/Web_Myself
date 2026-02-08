@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-06T02:32:44Z",
+      "updatedAt": "2026-02-07T02:28:04Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-06T01:05:27Z",
+      "updatedAt": "2026-02-07T01:04:21Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -66,7 +66,7 @@ window.GITHUB_DATA = {
       "description": "A Minecraft Plugin,from ProjectE mod",
       "language": "Java",
       "stars": 15,
-      "forks": 5,
+      "forks": 6,
       "url": "https://github.com/Little100/ProjectE-plugin",
       "updatedAt": "2026-01-30T15:30:04Z",
       "createdAt": "2025-07-27T11:20:55Z",
