@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 27,
+      "forks": 4,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-02-11T10:42:55Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
+      "name": "MC_Skin_Generator",
+      "fullName": "Little100/MC_Skin_Generator",
+      "description": "Form a image to Minecaft skin",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/MC_Skin_Generator",
+      "updatedAt": "2026-02-11T06:21:25Z",
+      "createdAt": "2025-05-04T06:33:05Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-10T02:48:58Z",
+      "updatedAt": "2026-02-11T02:46:11Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +44,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-10T01:20:06Z",
+      "updatedAt": "2026-02-11T01:18:07Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -219,18 +243,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "MC_Skin_Generator",
-      "fullName": "Little100/MC_Skin_Generator",
-      "description": "Form a image to Minecaft skin",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/MC_Skin_Generator",
-      "updatedAt": "2026-01-30T15:29:53Z",
-      "createdAt": "2025-05-04T06:33:05Z",
-      "topics": []
-    },
-    {
       "name": "Alchemical_Bag_Plugin",
       "fullName": "Little100/Alchemical_Bag_Plugin",
       "description": "炼金术袋子 但是是插件版",
@@ -423,18 +435,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 26,
-      "forks": 3,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2026-01-21T05:05:17Z",
-      "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
-    },
-    {
       "name": "CCB",
       "fullName": "Little100/CCB",
       "description": "暂无描述",
@@ -496,10 +496,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 56,
-    "CSS": 4,
-    "JavaScript": 6,
+    "TypeScript": 12,
+    "CSS": 7,
+    "Rust": 3,
     "Python": 3,
-    "Java": 31
+    "HTML": 45,
+    "JavaScript": 5,
+    "Java": 25
   }
 };
