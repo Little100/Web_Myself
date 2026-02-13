@@ -1,12 +1,36 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2026-02-12T02:41:36Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2026-02-12T01:10:35Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft-Resourcespack-Editor",
       "fullName": "Little100/Minecraft-Resourcespack-Editor",
       "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
       "language": "TypeScript",
       "stars": 27,
-      "forks": 4,
+      "forks": 5,
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
       "updatedAt": "2026-02-11T10:42:55Z",
       "createdAt": "2025-11-26T10:30:47Z",
@@ -22,30 +46,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/MC_Skin_Generator",
       "updatedAt": "2026-02-11T06:21:25Z",
       "createdAt": "2025-05-04T06:33:05Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-11T02:46:11Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-11T01:18:07Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -496,12 +496,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 12,
-    "CSS": 7,
-    "Rust": 3,
-    "Python": 3,
     "HTML": 45,
+    "CSS": 7,
     "JavaScript": 5,
+    "Python": 3,
+    "TypeScript": 12,
+    "Rust": 3,
     "Java": 25
   }
 };
