@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "pluginmarket",
+      "fullName": "Little100/pluginmarket",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Little100/pluginmarket",
+      "updatedAt": "2026-02-14T00:22:05Z",
+      "createdAt": "2026-02-13T06:59:23Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-12T02:41:36Z",
+      "updatedAt": "2026-02-13T02:42:33Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-12T01:10:35Z",
+      "updatedAt": "2026-02-13T01:14:04Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -145,18 +157,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Anti-Recall-OneBot",
-      "fullName": "Little100/Anti-Recall-OneBot",
-      "description": "a normal antirecall",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Anti-Recall-OneBot",
-      "updatedAt": "2026-01-30T15:30:00Z",
-      "createdAt": "2025-07-25T19:42:47Z",
-      "topics": []
-    },
-    {
       "name": "MinecraftServersideBlockPack",
       "fullName": "Little100/MinecraftServersideBlockPack",
       "description": "一个可以在我的世界服务端显示方块贴图的方法",
@@ -166,6 +166,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/MinecraftServersideBlockPack",
       "updatedAt": "2026-01-30T15:30:00Z",
       "createdAt": "2025-08-11T12:57:37Z",
+      "topics": []
+    },
+    {
+      "name": "Anti-Recall-OneBot",
+      "fullName": "Little100/Anti-Recall-OneBot",
+      "description": "a normal antirecall",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Anti-Recall-OneBot",
+      "updatedAt": "2026-01-30T15:30:00Z",
+      "createdAt": "2025-07-25T19:42:47Z",
       "topics": []
     },
     {
@@ -217,6 +229,18 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
+      "name": "Minecraft_Server_Manager",
+      "fullName": "Little100/Minecraft_Server_Manager",
+      "description": "a minecraft server mananger",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Server_Manager",
+      "updatedAt": "2026-01-30T15:29:54Z",
+      "createdAt": "2025-01-22T09:39:23Z",
+      "topics": []
+    },
+    {
       "name": "Furry.Beer",
       "fullName": "Little100/Furry.Beer",
       "description": "a furry html",
@@ -229,18 +253,6 @@ window.GITHUB_DATA = {
       "topics": [
         "furry"
       ]
-    },
-    {
-      "name": "Minecraft_Server_Manager",
-      "fullName": "Little100/Minecraft_Server_Manager",
-      "description": "a minecraft server mananger",
-      "language": "JavaScript",
-      "stars": 2,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Server_Manager",
-      "updatedAt": "2026-01-30T15:29:54Z",
-      "createdAt": "2025-01-22T09:39:23Z",
-      "topics": []
     },
     {
       "name": "Alchemical_Bag_Plugin",
@@ -496,12 +508,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 45,
-    "CSS": 7,
-    "JavaScript": 5,
-    "Python": 3,
-    "TypeScript": 12,
-    "Rust": 3,
-    "Java": 25
+    "TypeScript": 23,
+    "CSS": 5,
+    "JavaScript": 12,
+    "HTML": 30,
+    "Rust": 2,
+    "Vue": 9,
+    "Less": 1,
+    "Python": 2,
+    "Java": 16
   }
 };
