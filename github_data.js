@@ -1,15 +1,27 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "pluginmarket",
-      "fullName": "Little100/pluginmarket",
+      "name": "theme-palette",
+      "fullName": "Little100/theme-palette",
       "description": "暂无描述",
-      "language": "TypeScript",
-      "stars": 3,
+      "language": "CSS",
+      "stars": 0,
       "forks": 0,
-      "url": "https://github.com/Little100/pluginmarket",
-      "updatedAt": "2026-02-14T00:22:05Z",
-      "createdAt": "2026-02-13T06:59:23Z",
+      "url": "https://github.com/Little100/theme-palette",
+      "updatedAt": "2026-02-14T18:37:29Z",
+      "createdAt": "2026-02-14T17:58:54Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Server_Manager",
+      "fullName": "Little100/Minecraft_Server_Manager",
+      "description": "a minecraft server mananger",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Server_Manager",
+      "updatedAt": "2026-02-14T03:03:17Z",
+      "createdAt": "2025-01-22T09:39:23Z",
       "topics": []
     },
     {
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-13T02:42:33Z",
+      "updatedAt": "2026-02-14T02:29:54Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +44,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-13T01:14:04Z",
+      "updatedAt": "2026-02-14T01:07:09Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "pluginmarket",
+      "fullName": "Little100/pluginmarket",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Little100/pluginmarket",
+      "updatedAt": "2026-02-14T00:22:05Z",
+      "createdAt": "2026-02-13T06:59:23Z",
       "topics": []
     },
     {
@@ -157,18 +181,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "MinecraftServersideBlockPack",
-      "fullName": "Little100/MinecraftServersideBlockPack",
-      "description": "一个可以在我的世界服务端显示方块贴图的方法",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
-      "updatedAt": "2026-01-30T15:30:00Z",
-      "createdAt": "2025-08-11T12:57:37Z",
-      "topics": []
-    },
-    {
       "name": "Anti-Recall-OneBot",
       "fullName": "Little100/Anti-Recall-OneBot",
       "description": "a normal antirecall",
@@ -178,6 +190,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Anti-Recall-OneBot",
       "updatedAt": "2026-01-30T15:30:00Z",
       "createdAt": "2025-07-25T19:42:47Z",
+      "topics": []
+    },
+    {
+      "name": "MinecraftServersideBlockPack",
+      "fullName": "Little100/MinecraftServersideBlockPack",
+      "description": "一个可以在我的世界服务端显示方块贴图的方法",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/MinecraftServersideBlockPack",
+      "updatedAt": "2026-01-30T15:30:00Z",
+      "createdAt": "2025-08-11T12:57:37Z",
       "topics": []
     },
     {
@@ -205,18 +229,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Video_Data_Analysis",
-      "fullName": "Little100/Video_Data_Analysis",
-      "description": "一个简单的分析视频平台的工具",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Video_Data_Analysis",
-      "updatedAt": "2026-01-30T15:29:56Z",
-      "createdAt": "2025-06-28T12:50:02Z",
-      "topics": []
-    },
-    {
       "name": "yayagongyi",
       "fullName": "Little100/yayagongyi",
       "description": "吖吖公益",
@@ -229,15 +241,15 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Minecraft_Server_Manager",
-      "fullName": "Little100/Minecraft_Server_Manager",
-      "description": "a minecraft server mananger",
-      "language": "JavaScript",
-      "stars": 2,
+      "name": "Video_Data_Analysis",
+      "fullName": "Little100/Video_Data_Analysis",
+      "description": "一个简单的分析视频平台的工具",
+      "language": "Python",
+      "stars": 0,
       "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Server_Manager",
-      "updatedAt": "2026-01-30T15:29:54Z",
-      "createdAt": "2025-01-22T09:39:23Z",
+      "url": "https://github.com/Little100/Video_Data_Analysis",
+      "updatedAt": "2026-01-30T15:29:56Z",
+      "createdAt": "2025-06-28T12:50:02Z",
       "topics": []
     },
     {
@@ -303,18 +315,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Player_Nekomusume",
-      "fullName": "Little100/Player_Nekomusume",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Player_Nekomusume",
-      "updatedAt": "2026-01-30T15:29:47Z",
-      "createdAt": "2024-12-01T08:11:26Z",
-      "topics": []
-    },
-    {
       "name": ".love_domain",
       "fullName": "Little100/.love_domain",
       "description": "暂无描述",
@@ -324,6 +324,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/.love_domain",
       "updatedAt": "2026-01-30T15:29:47Z",
       "createdAt": "2025-02-11T08:08:17Z",
+      "topics": []
+    },
+    {
+      "name": "Player_Nekomusume",
+      "fullName": "Little100/Player_Nekomusume",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Player_Nekomusume",
+      "updatedAt": "2026-01-30T15:29:47Z",
+      "createdAt": "2024-12-01T08:11:26Z",
       "topics": []
     },
     {
@@ -339,18 +351,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Liteitemshow",
-      "fullName": "Little100/Liteitemshow",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Liteitemshow",
-      "updatedAt": "2026-01-30T15:29:45Z",
-      "createdAt": "2024-08-31T06:30:45Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Player_Mating_Plugin",
       "fullName": "Little100/Minecraft_Player_Mating_Plugin",
       "description": "暂无描述",
@@ -360,6 +360,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_Player_Mating_Plugin",
       "updatedAt": "2026-01-30T15:29:45Z",
       "createdAt": "2024-08-15T02:59:25Z",
+      "topics": []
+    },
+    {
+      "name": "Liteitemshow",
+      "fullName": "Little100/Liteitemshow",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Liteitemshow",
+      "updatedAt": "2026-01-30T15:29:45Z",
+      "createdAt": "2024-08-31T06:30:45Z",
       "topics": []
     },
     {
@@ -508,14 +520,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 23,
-    "CSS": 5,
-    "JavaScript": 12,
+    "CSS": 4,
+    "Vue": 11,
+    "Rust": 3,
     "HTML": 30,
-    "Rust": 2,
-    "Vue": 9,
-    "Less": 1,
+    "TypeScript": 23,
+    "JavaScript": 11,
     "Python": 2,
+    "Less": 1,
     "Java": 16
   }
 };
