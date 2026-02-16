@@ -1,6 +1,42 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "AntiSeedMine",
+      "fullName": "Little100/AntiSeedMine",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/AntiSeedMine",
+      "updatedAt": "2026-02-15T10:12:20Z",
+      "createdAt": "2026-01-26T06:25:42Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2026-02-15T02:43:02Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2026-02-15T01:13:15Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "theme-palette",
       "fullName": "Little100/theme-palette",
       "description": "暂无描述",
@@ -22,30 +58,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft_Server_Manager",
       "updatedAt": "2026-02-14T03:03:17Z",
       "createdAt": "2025-01-22T09:39:23Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-14T02:29:54Z",
-      "createdAt": "2025-05-16T11:53:06Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-14T01:07:09Z",
-      "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
     {
@@ -229,18 +241,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "yayagongyi",
-      "fullName": "Little100/yayagongyi",
-      "description": "吖吖公益",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/yayagongyi",
-      "updatedAt": "2026-01-30T15:29:56Z",
-      "createdAt": "2025-04-19T02:18:12Z",
-      "topics": []
-    },
-    {
       "name": "Video_Data_Analysis",
       "fullName": "Little100/Video_Data_Analysis",
       "description": "一个简单的分析视频平台的工具",
@@ -250,6 +250,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Video_Data_Analysis",
       "updatedAt": "2026-01-30T15:29:56Z",
       "createdAt": "2025-06-28T12:50:02Z",
+      "topics": []
+    },
+    {
+      "name": "yayagongyi",
+      "fullName": "Little100/yayagongyi",
+      "description": "吖吖公益",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/yayagongyi",
+      "updatedAt": "2026-01-30T15:29:56Z",
+      "createdAt": "2025-04-19T02:18:12Z",
       "topics": []
     },
     {
@@ -267,18 +279,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Alchemical_Bag_Plugin",
-      "fullName": "Little100/Alchemical_Bag_Plugin",
-      "description": "炼金术袋子 但是是插件版",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
-      "updatedAt": "2026-01-30T15:29:52Z",
-      "createdAt": "2025-04-06T18:01:24Z",
-      "topics": []
-    },
-    {
       "name": "No_Eat_Limit",
       "fullName": "Little100/No_Eat_Limit",
       "description": "让玩家没有吃食物的饱食度限制",
@@ -288,6 +288,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/No_Eat_Limit",
       "updatedAt": "2026-01-30T15:29:52Z",
       "createdAt": "2025-04-13T08:37:31Z",
+      "topics": []
+    },
+    {
+      "name": "Alchemical_Bag_Plugin",
+      "fullName": "Little100/Alchemical_Bag_Plugin",
+      "description": "炼金术袋子 但是是插件版",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
+      "updatedAt": "2026-01-30T15:29:52Z",
+      "createdAt": "2025-04-06T18:01:24Z",
       "topics": []
     },
     {
@@ -447,18 +459,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "AntiSeedMine",
-      "fullName": "Little100/AntiSeedMine",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/AntiSeedMine",
-      "updatedAt": "2026-01-27T13:00:07Z",
-      "createdAt": "2026-01-26T06:25:42Z",
-      "topics": []
-    },
-    {
       "name": "CCB",
       "fullName": "Little100/CCB",
       "description": "暂无描述",
@@ -520,14 +520,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "CSS": 4,
-    "Vue": 11,
+    "Vue": 10,
     "Rust": 3,
-    "HTML": 30,
-    "TypeScript": 23,
+    "TypeScript": 22,
+    "HTML": 28,
+    "CSS": 4,
+    "Java": 20,
     "JavaScript": 11,
-    "Python": 2,
-    "Less": 1,
-    "Java": 16
+    "Python": 1,
+    "Less": 1
   }
 };
