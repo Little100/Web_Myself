@@ -1,18 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "AntiSeedMine",
-      "fullName": "Little100/AntiSeedMine",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/AntiSeedMine",
-      "updatedAt": "2026-02-15T10:12:20Z",
-      "createdAt": "2026-01-26T06:25:42Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -20,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-15T02:43:02Z",
+      "updatedAt": "2026-02-16T02:38:38Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +20,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-15T01:13:15Z",
+      "updatedAt": "2026-02-16T01:10:26Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "AntiSeedMine",
+      "fullName": "Little100/AntiSeedMine",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Little100/AntiSeedMine",
+      "updatedAt": "2026-02-15T10:12:20Z",
+      "createdAt": "2026-01-26T06:25:42Z",
       "topics": []
     },
     {
@@ -520,14 +520,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Vue": 10,
+    "Vue": 12,
     "Rust": 3,
-    "TypeScript": 22,
+    "TypeScript": 21,
     "HTML": 28,
     "CSS": 4,
-    "Java": 20,
-    "JavaScript": 11,
+    "JavaScript": 10,
     "Python": 1,
+    "Java": 19,
     "Less": 1
   }
 };
