@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-16T02:38:38Z",
+      "updatedAt": "2026-02-17T02:34:45Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-16T01:10:26Z",
+      "updatedAt": "2026-02-17T01:09:20Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -520,13 +520,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "Vue": 12,
-    "Rust": 3,
-    "TypeScript": 21,
     "HTML": 28,
     "CSS": 4,
     "JavaScript": 10,
     "Python": 1,
+    "Vue": 12,
+    "Rust": 3,
+    "TypeScript": 21,
     "Java": 19,
     "Less": 1
   }
