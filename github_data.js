@@ -1,6 +1,18 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 28,
+      "forks": 5,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-02-18T10:03:50Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-17T02:34:45Z",
+      "updatedAt": "2026-02-18T02:38:10Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-17T01:09:20Z",
+      "updatedAt": "2026-02-18T01:11:51Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -70,18 +82,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/pluginmarket",
       "updatedAt": "2026-02-14T00:22:05Z",
       "createdAt": "2026-02-13T06:59:23Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 27,
-      "forks": 5,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2026-02-11T10:42:55Z",
-      "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
     {
@@ -241,18 +241,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "Video_Data_Analysis",
-      "fullName": "Little100/Video_Data_Analysis",
-      "description": "一个简单的分析视频平台的工具",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Video_Data_Analysis",
-      "updatedAt": "2026-01-30T15:29:56Z",
-      "createdAt": "2025-06-28T12:50:02Z",
-      "topics": []
-    },
-    {
       "name": "yayagongyi",
       "fullName": "Little100/yayagongyi",
       "description": "吖吖公益",
@@ -262,6 +250,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/yayagongyi",
       "updatedAt": "2026-01-30T15:29:56Z",
       "createdAt": "2025-04-19T02:18:12Z",
+      "topics": []
+    },
+    {
+      "name": "Video_Data_Analysis",
+      "fullName": "Little100/Video_Data_Analysis",
+      "description": "一个简单的分析视频平台的工具",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Video_Data_Analysis",
+      "updatedAt": "2026-01-30T15:29:56Z",
+      "createdAt": "2025-06-28T12:50:02Z",
       "topics": []
     },
     {
@@ -520,13 +520,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 28,
-    "CSS": 4,
-    "JavaScript": 10,
-    "Python": 1,
     "Vue": 12,
-    "Rust": 3,
+    "Rust": 4,
     "TypeScript": 21,
+    "CSS": 4,
+    "HTML": 27,
+    "Python": 1,
+    "JavaScript": 10,
     "Java": 19,
     "Less": 1
   }
