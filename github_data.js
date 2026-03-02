@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "mailfree",
+      "fullName": "Little100/mailfree",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/mailfree",
+      "updatedAt": "2026-03-01T20:01:01Z",
+      "createdAt": "2026-03-01T20:00:39Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 29,
+      "forks": 5,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-03-01T11:15:40Z",
+      "createdAt": "2025-11-26T10:30:47Z",
+      "topics": []
+    },
+    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -8,7 +32,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-02-28T02:21:00Z",
+      "updatedAt": "2026-03-01T02:45:30Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,20 +44,8 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-02-28T01:00:51Z",
+      "updatedAt": "2026-03-01T01:15:40Z",
       "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 28,
-      "forks": 5,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2026-02-18T10:03:50Z",
-      "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
     {
@@ -279,18 +291,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Alchemical_Bag_Plugin",
-      "fullName": "Little100/Alchemical_Bag_Plugin",
-      "description": "炼金术袋子 但是是插件版",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
-      "updatedAt": "2026-01-30T15:29:52Z",
-      "createdAt": "2025-04-06T18:01:24Z",
-      "topics": []
-    },
-    {
       "name": "No_Eat_Limit",
       "fullName": "Little100/No_Eat_Limit",
       "description": "让玩家没有吃食物的饱食度限制",
@@ -300,6 +300,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/No_Eat_Limit",
       "updatedAt": "2026-01-30T15:29:52Z",
       "createdAt": "2025-04-13T08:37:31Z",
+      "topics": []
+    },
+    {
+      "name": "Alchemical_Bag_Plugin",
+      "fullName": "Little100/Alchemical_Bag_Plugin",
+      "description": "炼金术袋子 但是是插件版",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
+      "updatedAt": "2026-01-30T15:29:52Z",
+      "createdAt": "2025-04-06T18:01:24Z",
       "topics": []
     },
     {
@@ -520,14 +532,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 21,
-    "Vue": 12,
-    "JavaScript": 10,
-    "Less": 1,
-    "HTML": 27,
-    "CSS": 4,
+    "JavaScript": 18,
+    "CSS": 8,
+    "HTML": 25,
+    "TypeScript": 18,
+    "Rust": 3,
     "Python": 1,
-    "Rust": 4,
-    "Java": 19
+    "Vue": 11,
+    "Less": 1,
+    "Java": 16
   }
 };
