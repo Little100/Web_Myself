@@ -1,18 +1,6 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Minecraft-Resourcespack-Editor",
-      "fullName": "Little100/Minecraft-Resourcespack-Editor",
-      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
-      "language": "TypeScript",
-      "stars": 30,
-      "forks": 5,
-      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
-      "updatedAt": "2026-03-02T18:57:37Z",
-      "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
-    },
-    {
       "name": "Minecraft_Online_Issues",
       "fullName": "Little100/Minecraft_Online_Issues",
       "description": "MOL 帮助玩家解决联机的疑难杂症",
@@ -20,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-03-02T02:33:47Z",
+      "updatedAt": "2026-03-03T02:36:25Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -32,8 +20,20 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-03-02T01:07:58Z",
+      "updatedAt": "2026-03-03T01:10:17Z",
       "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft-Resourcespack-Editor",
+      "fullName": "Little100/Minecraft-Resourcespack-Editor",
+      "description": "a minecraft resourcespack maker,can ez to make packs or edit pack for noob man",
+      "language": "TypeScript",
+      "stars": 30,
+      "forks": 5,
+      "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
+      "updatedAt": "2026-03-02T18:57:37Z",
+      "createdAt": "2025-11-26T10:30:47Z",
       "topics": []
     },
     {
@@ -532,12 +532,12 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "TypeScript": 20,
-    "CSS": 6,
-    "Rust": 4,
-    "Python": 1,
     "HTML": 26,
+    "CSS": 6,
     "JavaScript": 14,
+    "Python": 1,
+    "TypeScript": 20,
+    "Rust": 4,
     "Vue": 11,
     "Less": 1,
     "Java": 17
