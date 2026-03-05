@@ -8,7 +8,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-03-03T02:36:25Z",
+      "updatedAt": "2026-03-04T02:29:06Z",
       "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
@@ -20,7 +20,7 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-03-03T01:10:17Z",
+      "updatedAt": "2026-03-04T01:06:15Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
     },
@@ -291,18 +291,6 @@ window.GITHUB_DATA = {
       ]
     },
     {
-      "name": "Alchemical_Bag_Plugin",
-      "fullName": "Little100/Alchemical_Bag_Plugin",
-      "description": "炼金术袋子 但是是插件版",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
-      "updatedAt": "2026-01-30T15:29:52Z",
-      "createdAt": "2025-04-06T18:01:24Z",
-      "topics": []
-    },
-    {
       "name": "No_Eat_Limit",
       "fullName": "Little100/No_Eat_Limit",
       "description": "让玩家没有吃食物的饱食度限制",
@@ -312,6 +300,18 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/No_Eat_Limit",
       "updatedAt": "2026-01-30T15:29:52Z",
       "createdAt": "2025-04-13T08:37:31Z",
+      "topics": []
+    },
+    {
+      "name": "Alchemical_Bag_Plugin",
+      "fullName": "Little100/Alchemical_Bag_Plugin",
+      "description": "炼金术袋子 但是是插件版",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Alchemical_Bag_Plugin",
+      "updatedAt": "2026-01-30T15:29:52Z",
+      "createdAt": "2025-04-06T18:01:24Z",
       "topics": []
     },
     {
@@ -532,14 +532,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 26,
-    "CSS": 6,
-    "JavaScript": 14,
+    "JavaScript": 18,
+    "CSS": 8,
+    "HTML": 25,
     "Python": 1,
-    "TypeScript": 20,
-    "Rust": 4,
+    "TypeScript": 18,
+    "Rust": 3,
     "Vue": 11,
     "Less": 1,
-    "Java": 17
+    "Java": 16
   }
 };
