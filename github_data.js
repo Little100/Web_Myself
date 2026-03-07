@@ -1,15 +1,27 @@
 window.GITHUB_DATA = {
   "projects": [
     {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
+      "name": "mailfree",
+      "fullName": "Little100/mailfree",
+      "description": "暂无描述",
+      "language": "JavaScript",
       "stars": 0,
       "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-03-05T02:32:13Z",
-      "createdAt": "2025-05-16T11:53:06Z",
+      "url": "https://github.com/Little100/mailfree",
+      "updatedAt": "2026-03-06T15:22:58Z",
+      "createdAt": "2026-03-06T15:22:34Z",
+      "topics": []
+    },
+    {
+      "name": "DomMobsManager",
+      "fullName": "Little100/DomMobsManager",
+      "description": "暂无描述",
+      "language": "Java",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/DomMobsManager",
+      "updatedAt": "2026-03-06T14:04:09Z",
+      "createdAt": "2025-12-08T06:39:54Z",
       "topics": []
     },
     {
@@ -20,9 +32,66 @@ window.GITHUB_DATA = {
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-03-05T01:08:48Z",
+      "updatedAt": "2026-03-06T13:07:05Z",
       "createdAt": "2025-09-06T14:20:55Z",
       "topics": []
+    },
+    {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2026-03-06T13:06:58Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Minecraft_Server_Manager",
+      "fullName": "Little100/Minecraft_Server_Manager",
+      "description": "a minecraft server mananger",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Server_Manager",
+      "updatedAt": "2026-03-06T13:06:20Z",
+      "createdAt": "2025-01-22T09:39:23Z",
+      "topics": []
+    },
+    {
+      "name": "Super_Stick_Sword",
+      "fullName": "Little100/Super_Stick_Sword",
+      "description": "A Minecraft Plugin,from Super Stick Sword mod",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Super_Stick_Sword",
+      "updatedAt": "2026-03-06T13:02:26Z",
+      "createdAt": "2025-09-07T03:03:33Z",
+      "topics": [
+        "minecraft",
+        "minecraft-plugin"
+      ]
+    },
+    {
+      "name": "ProjectE-plugin",
+      "fullName": "Little100/ProjectE-plugin",
+      "description": "A Minecraft Plugin,from ProjectE mod",
+      "language": "Java",
+      "stars": 15,
+      "forks": 6,
+      "url": "https://github.com/Little100/ProjectE-plugin",
+      "updatedAt": "2026-03-06T12:59:40Z",
+      "createdAt": "2025-07-27T11:20:55Z",
+      "topics": [
+        "minecraft",
+        "minecraft-datapack",
+        "minecraft-plugin",
+        "minecraft-server",
+        "projecte"
+      ]
     },
     {
       "name": "Minecraft-Resourcespack-Editor",
@@ -34,18 +103,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Minecraft-Resourcespack-Editor",
       "updatedAt": "2026-03-02T18:57:37Z",
       "createdAt": "2025-11-26T10:30:47Z",
-      "topics": []
-    },
-    {
-      "name": "mailfree",
-      "fullName": "Little100/mailfree",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/mailfree",
-      "updatedAt": "2026-03-01T20:01:01Z",
-      "createdAt": "2026-03-01T20:00:39Z",
       "topics": []
     },
     {
@@ -70,18 +127,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/theme-palette",
       "updatedAt": "2026-02-14T18:37:29Z",
       "createdAt": "2026-02-14T17:58:54Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Server_Manager",
-      "fullName": "Little100/Minecraft_Server_Manager",
-      "description": "a minecraft server mananger",
-      "language": "JavaScript",
-      "stars": 2,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Server_Manager",
-      "updatedAt": "2026-02-14T03:03:17Z",
-      "createdAt": "2025-01-22T09:39:23Z",
       "topics": []
     },
     {
@@ -157,24 +202,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "ProjectE-plugin",
-      "fullName": "Little100/ProjectE-plugin",
-      "description": "A Minecraft Plugin,from ProjectE mod",
-      "language": "Java",
-      "stars": 15,
-      "forks": 6,
-      "url": "https://github.com/Little100/ProjectE-plugin",
-      "updatedAt": "2026-01-30T15:30:04Z",
-      "createdAt": "2025-07-27T11:20:55Z",
-      "topics": [
-        "minecraft",
-        "minecraft-datapack",
-        "minecraft-plugin",
-        "minecraft-server",
-        "projecte"
-      ]
-    },
-    {
       "name": "Super_Farming",
       "fullName": "Little100/Super_Farming",
       "description": "a minecraft plugin ",
@@ -184,21 +211,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/Super_Farming",
       "updatedAt": "2026-01-30T15:30:02Z",
       "createdAt": "2025-09-07T16:39:44Z",
-      "topics": [
-        "minecraft",
-        "minecraft-plugin"
-      ]
-    },
-    {
-      "name": "Super_Stick_Sword",
-      "fullName": "Little100/Super_Stick_Sword",
-      "description": "A Minecraft Plugin,from Super Stick Sword mod",
-      "language": "Java",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Super_Stick_Sword",
-      "updatedAt": "2026-01-30T15:30:01Z",
-      "createdAt": "2025-09-07T03:03:33Z",
       "topics": [
         "minecraft",
         "minecraft-plugin"
@@ -265,18 +277,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "yayagongyi",
-      "fullName": "Little100/yayagongyi",
-      "description": "吖吖公益",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/yayagongyi",
-      "updatedAt": "2026-01-30T15:29:56Z",
-      "createdAt": "2025-04-19T02:18:12Z",
-      "topics": []
-    },
-    {
       "name": "Furry.Beer",
       "fullName": "Little100/Furry.Beer",
       "description": "a furry html",
@@ -336,18 +336,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/GayMCPack",
       "updatedAt": "2026-01-30T15:29:48Z",
       "createdAt": "2024-08-19T14:52:11Z",
-      "topics": []
-    },
-    {
-      "name": ".love_domain",
-      "fullName": "Little100/.love_domain",
-      "description": "暂无描述",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/.love_domain",
-      "updatedAt": "2026-01-30T15:29:47Z",
-      "createdAt": "2025-02-11T08:08:17Z",
       "topics": []
     },
     {
@@ -483,18 +471,6 @@ window.GITHUB_DATA = {
       "topics": []
     },
     {
-      "name": "DomMobsManager",
-      "fullName": "Little100/DomMobsManager",
-      "description": "暂无描述",
-      "language": "Java",
-      "stars": 1,
-      "forks": 0,
-      "url": "https://github.com/Little100/DomMobsManager",
-      "updatedAt": "2025-12-19T15:47:25Z",
-      "createdAt": "2025-12-08T06:39:54Z",
-      "topics": []
-    },
-    {
       "name": "DomAreaPrvacyStatus",
       "fullName": "Little100/DomAreaPrvacyStatus",
       "description": "暂无描述",
@@ -532,14 +508,14 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "HTML": 26,
-    "CSS": 6,
     "JavaScript": 14,
+    "CSS": 6,
+    "HTML": 25,
+    "Java": 18,
     "Python": 1,
     "TypeScript": 20,
     "Rust": 4,
     "Vue": 11,
-    "Less": 1,
-    "Java": 17
+    "Less": 1
   }
 };
