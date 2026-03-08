@@ -1,6 +1,30 @@
 window.GITHUB_DATA = {
   "projects": [
     {
+      "name": "Minecraft_Online_Issues",
+      "fullName": "Little100/Minecraft_Online_Issues",
+      "description": "MOL 帮助玩家解决联机的疑难杂症",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Minecraft_Online_Issues",
+      "updatedAt": "2026-03-07T02:23:49Z",
+      "createdAt": "2025-05-16T11:53:06Z",
+      "topics": []
+    },
+    {
+      "name": "Web_Myself",
+      "fullName": "Little100/Web_Myself",
+      "description": "暂无描述",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/Little100/Web_Myself",
+      "updatedAt": "2026-03-07T01:04:13Z",
+      "createdAt": "2025-09-06T14:20:55Z",
+      "topics": []
+    },
+    {
       "name": "mailfree",
       "fullName": "Little100/mailfree",
       "description": "暂无描述",
@@ -22,30 +46,6 @@ window.GITHUB_DATA = {
       "url": "https://github.com/Little100/DomMobsManager",
       "updatedAt": "2026-03-06T14:04:09Z",
       "createdAt": "2025-12-08T06:39:54Z",
-      "topics": []
-    },
-    {
-      "name": "Web_Myself",
-      "fullName": "Little100/Web_Myself",
-      "description": "暂无描述",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Web_Myself",
-      "updatedAt": "2026-03-06T13:07:05Z",
-      "createdAt": "2025-09-06T14:20:55Z",
-      "topics": []
-    },
-    {
-      "name": "Minecraft_Online_Issues",
-      "fullName": "Little100/Minecraft_Online_Issues",
-      "description": "MOL 帮助玩家解决联机的疑难杂症",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/Little100/Minecraft_Online_Issues",
-      "updatedAt": "2026-03-06T13:06:58Z",
-      "createdAt": "2025-05-16T11:53:06Z",
       "topics": []
     },
     {
@@ -508,13 +508,13 @@ window.GITHUB_DATA = {
     }
   ],
   "languages": {
-    "JavaScript": 14,
-    "CSS": 6,
+    "JavaScript": 18,
+    "CSS": 8,
     "HTML": 25,
-    "Java": 18,
     "Python": 1,
-    "TypeScript": 20,
-    "Rust": 4,
+    "Java": 15,
+    "TypeScript": 19,
+    "Rust": 3,
     "Vue": 11,
     "Less": 1
   }
